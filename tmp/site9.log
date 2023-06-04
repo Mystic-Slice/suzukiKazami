@@ -1,0 +1,2170 @@
+Executing non-critical section
+receivedSequenceNumbers = [-1 -1 -1 -1 -1 -1 -1 -1 -1 -1]
+Received message 0 from site 0
+Updated receivedSequenceNumbers = [0 -1 -1 -1 -1 -1 -1 -1 -1 -1]
+receivedSequenceNumbers = [0 -1 -1 -1 -1 -1 -1 -1 -1 -1]
+Received message 0 from site 3
+Updated receivedSequenceNumbers = [0 -1 -1 0 -1 -1 -1 -1 -1 -1]
+Received message 0 from site 6
+Updated receivedSequenceNumbers = [0 -1 -1 0 -1 -1 0 -1 -1 -1]
+Received message 0 from site 2
+Updated receivedSequenceNumbers = [0 -1 0 0 -1 -1 0 -1 -1 -1]
+receivedSequenceNumbers = [0 -1 0 0 -1 -1 0 -1 -1 -1]
+receivedSequenceNumbers = [0 -1 0 0 -1 -1 0 -1 -1 -1]
+Received message 0 from site 8
+Updated receivedSequenceNumbers = [0 -1 0 0 -1 -1 0 -1 0 -1]
+receivedSequenceNumbers = [0 -1 0 0 -1 -1 0 -1 0 -1]
+Received message 0 from site 5
+Updated receivedSequenceNumbers = [0 -1 0 0 -1 0 0 -1 0 -1]
+receivedSequenceNumbers = [0 -1 0 0 -1 0 0 -1 0 -1]
+Received message 0 from site 4
+Updated receivedSequenceNumbers = [0 -1 0 0 0 0 0 -1 0 -1]
+receivedSequenceNumbers = [0 -1 0 0 0 0 0 -1 0 -1]
+receivedSequenceNumbers = [0 -1 0 0 0 0 0 -1 0 -1]
+Requesting critical section
+Sending message 0 to site 0
+Sending message 0 to site 1
+Sending message 0 to site 2
+Sending message 0 to site 3
+Sending message 0 to site 4
+Sending message 0 to site 5
+Sending message 0 to site 6
+Sending message 0 to site 7
+Sending message 0 to site 8
+Waiting for token
+Received message 0 from site 1
+Received message 0 from site 7
+Updated receivedSequenceNumbers = [0 -1 0 0 0 0 0 0 0 0]
+Updated receivedSequenceNumbers = [0 0 0 0 0 0 0 0 0 0]
+receivedSequenceNumbers = [0 0 0 0 0 0 0 0 0 0]
+receivedSequenceNumbers = [0 0 0 0 0 0 0 0 0 0]
+Received message 1 from site 0
+Updated receivedSequenceNumbers = [1 0 0 0 0 0 0 0 0 0]
+receivedSequenceNumbers = [1 0 0 0 0 0 0 0 0 0]
+receivedSequenceNumbers = [1 0 0 0 0 0 0 0 0 0]
+receivedSequenceNumbers = [1 0 0 0 0 0 0 0 0 0]
+receivedSequenceNumbers = [1 0 0 0 0 0 0 0 0 0]
+receivedSequenceNumbers = [1 0 0 0 0 0 0 0 0 0]
+receivedSequenceNumbers = [1 0 0 0 0 0 0 0 0 0]
+receivedSequenceNumbers = [1 0 0 0 0 0 0 0 0 0]
+receivedSequenceNumbers = [1 0 0 0 0 0 0 0 0 0]
+Received message 1 from site 3
+Received message 1 from site 2
+Updated receivedSequenceNumbers = [1 0 0 1 0 0 0 0 0 0]
+Updated receivedSequenceNumbers = [1 0 1 1 0 0 0 0 0 0]
+receivedSequenceNumbers = [1 0 1 1 0 0 0 0 0 0]
+receivedSequenceNumbers = [1 0 1 1 0 0 0 0 0 0]
+receivedSequenceNumbers = [1 0 1 1 0 0 0 0 0 0]
+receivedSequenceNumbers = [1 0 1 1 0 0 0 0 0 0]
+receivedSequenceNumbers = [1 0 1 1 0 0 0 0 0 0]
+receivedSequenceNumbers = [1 0 1 1 0 0 0 0 0 0]
+receivedSequenceNumbers = [1 0 1 1 0 0 0 0 0 0]
+Received message 1 from site 6
+Updated receivedSequenceNumbers = [1 0 1 1 0 0 1 0 0 0]
+receivedSequenceNumbers = [1 0 1 1 0 0 1 0 0 0]
+receivedSequenceNumbers = [1 0 1 1 0 0 1 0 0 0]
+receivedSequenceNumbers = [1 0 1 1 0 0 1 0 0 0]
+receivedSequenceNumbers = [1 0 1 1 0 0 1 0 0 0]
+receivedSequenceNumbers = [1 0 1 1 0 0 1 0 0 0]
+receivedSequenceNumbers = [1 0 1 1 0 0 1 0 0 0]
+receivedSequenceNumbers = [1 0 1 1 0 0 1 0 0 0]
+Received message 2 from site 0
+Updated receivedSequenceNumbers = [2 0 1 1 0 0 1 0 0 0]
+receivedSequenceNumbers = [2 0 1 1 0 0 1 0 0 0]
+receivedSequenceNumbers = [2 0 1 1 0 0 1 0 0 0]
+Received message 1 from site 8
+Updated receivedSequenceNumbers = [2 0 1 1 0 0 1 0 1 0]
+receivedSequenceNumbers = [2 0 1 1 0 0 1 0 1 0]
+receivedSequenceNumbers = [2 0 1 1 0 0 1 0 1 0]
+receivedSequenceNumbers = [2 0 1 1 0 0 1 0 1 0]
+Received message 1 from site 4
+Updated receivedSequenceNumbers = [2 0 1 1 1 0 1 0 1 0]
+receivedSequenceNumbers = [2 0 1 1 1 0 1 0 1 0]
+receivedSequenceNumbers = [2 0 1 1 1 0 1 0 1 0]
+receivedSequenceNumbers = [2 0 1 1 1 0 1 0 1 0]
+receivedSequenceNumbers = [2 0 1 1 1 0 1 0 1 0]
+Received token
+Executing critical section
+receivedSequenceNumbers = [2 0 1 1 1 0 1 0 1 0]
+Received message 1 from site 1
+Updated receivedSequenceNumbers = [2 1 1 1 1 0 1 0 1 0]
+receivedSequenceNumbers = [2 1 1 1 1 0 1 0 1 0]
+receivedSequenceNumbers = [2 1 1 1 1 0 1 0 1 0]
+receivedSequenceNumbers = [2 1 1 1 1 0 1 0 1 0]
+Received message 1 from site 7
+Updated receivedSequenceNumbers = [2 1 1 1 1 0 1 1 1 0]
+receivedSequenceNumbers = [2 1 1 1 1 0 1 1 1 0]
+Received message 1 from site 5
+Updated receivedSequenceNumbers = [2 1 1 1 1 1 1 1 1 0]
+receivedSequenceNumbers = [2 1 1 1 1 1 1 1 1 0]
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [2 3 6 0 8 4 1 5 7]
+Executing non-critical section
+Sending token to site 2
+Requesting critical section
+Token lock released
+Sending message 1 to site 0
+Sending message 1 to site 1
+Sending message 1 to site 2
+Sending message 1 to site 3
+Sending message 1 to site 4
+Sending message 1 to site 5
+Sending message 1 to site 6
+Sending message 1 to site 7
+Sending message 1 to site 8
+Waiting for token
+receivedSequenceNumbers = [2 1 1 1 1 1 1 1 1 1]
+receivedSequenceNumbers = [2 1 1 1 1 1 1 1 1 1]
+receivedSequenceNumbers = [2 1 1 1 1 1 1 1 1 1]
+receivedSequenceNumbers = [2 1 1 1 1 1 1 1 1 1]
+receivedSequenceNumbers = [2 1 1 1 1 1 1 1 1 1]
+Received message 2 from site 2
+Updated receivedSequenceNumbers = [2 1 2 1 1 1 1 1 1 1]
+receivedSequenceNumbers = [2 1 2 1 1 1 1 1 1 1]
+receivedSequenceNumbers = [2 1 2 1 1 1 1 1 1 1]
+receivedSequenceNumbers = [2 1 2 1 1 1 1 1 1 1]
+receivedSequenceNumbers = [2 1 2 1 1 1 1 1 1 1]
+receivedSequenceNumbers = [2 1 2 1 1 1 1 1 1 1]
+receivedSequenceNumbers = [2 1 2 1 1 1 1 1 1 1]
+receivedSequenceNumbers = [2 1 2 1 1 1 1 1 1 1]
+receivedSequenceNumbers = [2 1 2 1 1 1 1 1 1 1]
+receivedSequenceNumbers = [2 1 2 1 1 1 1 1 1 1]
+Received message 2 from site 6
+Updated receivedSequenceNumbers = [2 1 2 1 1 1 2 1 1 1]
+Received message 2 from site 8
+Updated receivedSequenceNumbers = [2 1 2 1 1 1 2 1 2 1]
+receivedSequenceNumbers = [2 1 2 1 1 1 2 1 2 1]
+receivedSequenceNumbers = [2 1 2 1 1 1 2 1 2 1]
+Received message 3 from site 0
+Updated receivedSequenceNumbers = [3 1 2 1 1 1 2 1 2 1]
+receivedSequenceNumbers = [3 1 2 1 1 1 2 1 2 1]
+Received message 2 from site 3
+Updated receivedSequenceNumbers = [3 1 2 2 1 1 2 1 2 1]
+Received message 2 from site 1
+Updated receivedSequenceNumbers = [3 2 2 2 1 1 2 1 2 1]
+receivedSequenceNumbers = [3 2 2 2 1 1 2 1 2 1]
+Received message 2 from site 4
+Updated receivedSequenceNumbers = [3 2 2 2 2 1 2 1 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 1 2 1 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 1 2 1 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 1 2 1 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 1 2 1 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 1 2 1 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 1 2 1 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 1 2 1 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 1 2 1 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 1 2 1 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 1 2 1 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 1 2 1 2 1]
+Received message 2 from site 7
+Updated receivedSequenceNumbers = [3 2 2 2 2 1 2 2 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 1 2 2 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 1 2 2 2 1]
+Received message 2 from site 5
+Updated receivedSequenceNumbers = [3 2 2 2 2 2 2 2 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 2 2 2 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 2 2 2 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 2 2 2 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 2 2 2 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 2 2 2 2 1]
+Received token
+Executing critical section
+receivedSequenceNumbers = [3 2 2 2 2 2 2 2 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 2 2 2 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 2 2 2 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 2 2 2 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 2 2 2 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 2 2 2 2 1]
+receivedSequenceNumbers = [3 2 2 2 2 2 2 2 2 1]
+Received message 3 from site 2
+Updated receivedSequenceNumbers = [3 2 3 2 2 2 2 2 2 1]
+receivedSequenceNumbers = [3 2 3 2 2 2 2 2 2 1]
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [6 0 8 1 3 4 5 7 2]
+Executing non-critical section
+Sending token to site 6
+Token lock released
+receivedSequenceNumbers = [3 2 3 2 2 2 2 2 2 1]
+receivedSequenceNumbers = [3 2 3 2 2 2 2 2 2 1]
+receivedSequenceNumbers = [3 2 3 2 2 2 2 2 2 1]
+receivedSequenceNumbers = [3 2 3 2 2 2 2 2 2 1]
+Requesting critical section
+Sending message 2 to site 0
+Sending message 2 to site 1
+Sending message 2 to site 2
+Sending message 2 to site 3
+Sending message 2 to site 4
+Sending message 2 to site 5
+Sending message 2 to site 6
+Sending message 2 to site 7
+Sending message 2 to site 8
+Waiting for token
+receivedSequenceNumbers = [3 2 3 2 2 2 2 2 2 2]
+receivedSequenceNumbers = [3 2 3 2 2 2 2 2 2 2]
+receivedSequenceNumbers = [3 2 3 2 2 2 2 2 2 2]
+receivedSequenceNumbers = [3 2 3 2 2 2 2 2 2 2]
+receivedSequenceNumbers = [3 2 3 2 2 2 2 2 2 2]
+receivedSequenceNumbers = [3 2 3 2 2 2 2 2 2 2]
+receivedSequenceNumbers = [3 2 3 2 2 2 2 2 2 2]
+receivedSequenceNumbers = [3 2 3 2 2 2 2 2 2 2]
+receivedSequenceNumbers = [3 2 3 2 2 2 2 2 2 2]
+receivedSequenceNumbers = [3 2 3 2 2 2 2 2 2 2]
+receivedSequenceNumbers = [3 2 3 2 2 2 2 2 2 2]
+receivedSequenceNumbers = [3 2 3 2 2 2 2 2 2 2]
+receivedSequenceNumbers = [3 2 3 2 2 2 2 2 2 2]
+Received message 3 from site 6
+Updated receivedSequenceNumbers = [3 2 3 2 2 2 3 2 2 2]
+Received message 4 from site 0
+Updated receivedSequenceNumbers = [4 2 3 2 2 2 3 2 2 2]
+receivedSequenceNumbers = [4 2 3 2 2 2 3 2 2 2]
+receivedSequenceNumbers = [4 2 3 2 2 2 3 2 2 2]
+receivedSequenceNumbers = [4 2 3 2 2 2 3 2 2 2]
+receivedSequenceNumbers = [4 2 3 2 2 2 3 2 2 2]
+receivedSequenceNumbers = [4 2 3 2 2 2 3 2 2 2]
+receivedSequenceNumbers = [4 2 3 2 2 2 3 2 2 2]
+receivedSequenceNumbers = [4 2 3 2 2 2 3 2 2 2]
+receivedSequenceNumbers = [4 2 3 2 2 2 3 2 2 2]
+Received message 3 from site 8
+Updated receivedSequenceNumbers = [4 2 3 2 2 2 3 2 3 2]
+receivedSequenceNumbers = [4 2 3 2 2 2 3 2 3 2]
+receivedSequenceNumbers = [4 2 3 2 2 2 3 2 3 2]
+Received message 3 from site 1
+Updated receivedSequenceNumbers = [4 3 3 2 2 2 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 2 2 2 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 2 2 2 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 2 2 2 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 2 2 2 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 2 2 2 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 2 2 2 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 2 2 2 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 2 2 2 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 2 2 2 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 2 2 2 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 2 2 2 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 2 2 2 3 2 3 2]
+Received message 3 from site 3
+Updated receivedSequenceNumbers = [4 3 3 3 2 2 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 3 2 2 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 3 2 2 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 3 2 2 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 3 2 2 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 3 2 2 3 2 3 2]
+Received message 3 from site 4
+Received message 3 from site 5
+Updated receivedSequenceNumbers = [4 3 3 3 3 2 3 2 3 2]
+Updated receivedSequenceNumbers = [4 3 3 3 3 3 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 3 3 3 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 3 3 3 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 3 3 3 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 3 3 3 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 3 3 3 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 3 3 3 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 3 3 3 3 2 3 2]
+receivedSequenceNumbers = [4 3 3 3 3 3 3 2 3 2]
+Received message 3 from site 7
+Updated receivedSequenceNumbers = [4 3 3 3 3 3 3 3 3 2]
+receivedSequenceNumbers = [4 3 3 3 3 3 3 3 3 2]
+Received token
+Executing critical section
+receivedSequenceNumbers = [4 3 3 3 3 3 3 3 3 2]
+receivedSequenceNumbers = [4 3 3 3 3 3 3 3 3 2]
+receivedSequenceNumbers = [4 3 3 3 3 3 3 3 3 2]
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [0 6 8 1 3 4 5 7]
+Executing non-critical section
+Sending token to site 0
+Token lock released
+Received message 4 from site 2
+Updated receivedSequenceNumbers = [4 3 4 3 3 3 3 3 3 2]
+receivedSequenceNumbers = [4 3 4 3 3 3 3 3 3 2]
+receivedSequenceNumbers = [4 3 4 3 3 3 3 3 3 2]
+receivedSequenceNumbers = [4 3 4 3 3 3 3 3 3 2]
+Requesting critical section
+Sending message 3 to site 0
+Sending message 3 to site 1
+Sending message 3 to site 2
+Sending message 3 to site 3
+Sending message 3 to site 4
+Sending message 3 to site 5
+Sending message 3 to site 6
+Sending message 3 to site 7
+Sending message 3 to site 8
+Waiting for token
+receivedSequenceNumbers = [4 3 4 3 3 3 3 3 3 3]
+receivedSequenceNumbers = [4 3 4 3 3 3 3 3 3 3]
+receivedSequenceNumbers = [4 3 4 3 3 3 3 3 3 3]
+receivedSequenceNumbers = [4 3 4 3 3 3 3 3 3 3]
+receivedSequenceNumbers = [4 3 4 3 3 3 3 3 3 3]
+receivedSequenceNumbers = [4 3 4 3 3 3 3 3 3 3]
+receivedSequenceNumbers = [4 3 4 3 3 3 3 3 3 3]
+receivedSequenceNumbers = [4 3 4 3 3 3 3 3 3 3]
+receivedSequenceNumbers = [4 3 4 3 3 3 3 3 3 3]
+Received message 5 from site 0
+Updated receivedSequenceNumbers = [5 3 4 3 3 3 3 3 3 3]
+receivedSequenceNumbers = [5 3 4 3 3 3 3 3 3 3]
+receivedSequenceNumbers = [5 3 4 3 3 3 3 3 3 3]
+Received message 4 from site 6
+Updated receivedSequenceNumbers = [5 3 4 3 3 3 4 3 3 3]
+receivedSequenceNumbers = [5 3 4 3 3 3 4 3 3 3]
+receivedSequenceNumbers = [5 3 4 3 3 3 4 3 3 3]
+receivedSequenceNumbers = [5 3 4 3 3 3 4 3 3 3]
+receivedSequenceNumbers = [5 3 4 3 3 3 4 3 3 3]
+receivedSequenceNumbers = [5 3 4 3 3 3 4 3 3 3]
+receivedSequenceNumbers = [5 3 4 3 3 3 4 3 3 3]
+receivedSequenceNumbers = [5 3 4 3 3 3 4 3 3 3]
+receivedSequenceNumbers = [5 3 4 3 3 3 4 3 3 3]
+receivedSequenceNumbers = [5 3 4 3 3 3 4 3 3 3]
+receivedSequenceNumbers = [5 3 4 3 3 3 4 3 3 3]
+Received message 4 from site 4
+Updated receivedSequenceNumbers = [5 3 4 3 4 3 4 3 3 3]
+receivedSequenceNumbers = [5 3 4 3 4 3 4 3 3 3]
+receivedSequenceNumbers = [5 3 4 3 4 3 4 3 3 3]
+Received message 4 from site 8
+Updated receivedSequenceNumbers = [5 3 4 3 4 3 4 3 4 3]
+receivedSequenceNumbers = [5 3 4 3 4 3 4 3 4 3]
+receivedSequenceNumbers = [5 3 4 3 4 3 4 3 4 3]
+Received message 4 from site 3
+Updated receivedSequenceNumbers = [5 3 4 4 4 3 4 3 4 3]
+receivedSequenceNumbers = [5 3 4 4 4 3 4 3 4 3]
+receivedSequenceNumbers = [5 3 4 4 4 3 4 3 4 3]
+Received message 4 from site 1
+Updated receivedSequenceNumbers = [5 4 4 4 4 3 4 3 4 3]
+receivedSequenceNumbers = [5 4 4 4 4 3 4 3 4 3]
+receivedSequenceNumbers = [5 4 4 4 4 3 4 3 4 3]
+receivedSequenceNumbers = [5 4 4 4 4 3 4 3 4 3]
+receivedSequenceNumbers = [5 4 4 4 4 3 4 3 4 3]
+receivedSequenceNumbers = [5 4 4 4 4 3 4 3 4 3]
+receivedSequenceNumbers = [5 4 4 4 4 3 4 3 4 3]
+receivedSequenceNumbers = [5 4 4 4 4 3 4 3 4 3]
+receivedSequenceNumbers = [5 4 4 4 4 3 4 3 4 3]
+Received message 4 from site 5
+Updated receivedSequenceNumbers = [5 4 4 4 4 4 4 3 4 3]
+receivedSequenceNumbers = [5 4 4 4 4 4 4 3 4 3]
+receivedSequenceNumbers = [5 4 4 4 4 4 4 3 4 3]
+receivedSequenceNumbers = [5 4 4 4 4 4 4 3 4 3]
+Received message 4 from site 7
+Updated receivedSequenceNumbers = [5 4 4 4 4 4 4 4 4 3]
+receivedSequenceNumbers = [5 4 4 4 4 4 4 4 4 3]
+receivedSequenceNumbers = [5 4 4 4 4 4 4 4 4 3]
+receivedSequenceNumbers = [5 4 4 4 4 4 4 4 4 3]
+receivedSequenceNumbers = [5 4 4 4 4 4 4 4 4 3]
+receivedSequenceNumbers = [5 4 4 4 4 4 4 4 4 3]
+receivedSequenceNumbers = [5 4 4 4 4 4 4 4 4 3]
+receivedSequenceNumbers = [5 4 4 4 4 4 4 4 4 3]
+Received token
+Executing critical section
+receivedSequenceNumbers = [5 4 4 4 4 4 4 4 4 3]
+receivedSequenceNumbers = [5 4 4 4 4 4 4 4 4 3]
+receivedSequenceNumbers = [5 4 4 4 4 4 4 4 4 3]
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [0 6 1 3 4 8 5 7]
+Executing non-critical section
+Sending token to site 0
+Requesting critical section
+Token lock released
+Sending message 4 to site 0
+Sending message 4 to site 1
+Sending message 4 to site 2
+Sending message 4 to site 3
+Sending message 4 to site 4
+Sending message 4 to site 5
+Sending message 4 to site 6
+Sending message 4 to site 7
+Sending message 4 to site 8
+Waiting for token
+receivedSequenceNumbers = [5 4 4 4 4 4 4 4 4 4]
+receivedSequenceNumbers = [5 4 4 4 4 4 4 4 4 4]
+receivedSequenceNumbers = [5 4 4 4 4 4 4 4 4 4]
+receivedSequenceNumbers = [5 4 4 4 4 4 4 4 4 4]
+receivedSequenceNumbers = [5 4 4 4 4 4 4 4 4 4]
+Received message 5 from site 2
+Updated receivedSequenceNumbers = [5 4 5 4 4 4 4 4 4 4]
+receivedSequenceNumbers = [5 4 5 4 4 4 4 4 4 4]
+receivedSequenceNumbers = [5 4 5 4 4 4 4 4 4 4]
+receivedSequenceNumbers = [5 4 5 4 4 4 4 4 4 4]
+Received message 6 from site 0
+Updated receivedSequenceNumbers = [6 4 5 4 4 4 4 4 4 4]
+receivedSequenceNumbers = [6 4 5 4 4 4 4 4 4 4]
+receivedSequenceNumbers = [6 4 5 4 4 4 4 4 4 4]
+receivedSequenceNumbers = [6 4 5 4 4 4 4 4 4 4]
+receivedSequenceNumbers = [6 4 5 4 4 4 4 4 4 4]
+Received message 5 from site 1
+Updated receivedSequenceNumbers = [6 5 5 4 4 4 4 4 4 4]
+receivedSequenceNumbers = [6 5 5 4 4 4 4 4 4 4]
+receivedSequenceNumbers = [6 5 5 4 4 4 4 4 4 4]
+receivedSequenceNumbers = [6 5 5 4 4 4 4 4 4 4]
+receivedSequenceNumbers = [6 5 5 4 4 4 4 4 4 4]
+receivedSequenceNumbers = [6 5 5 4 4 4 4 4 4 4]
+receivedSequenceNumbers = [6 5 5 4 4 4 4 4 4 4]
+Received message 5 from site 6
+Updated receivedSequenceNumbers = [6 5 5 4 4 4 5 4 4 4]
+receivedSequenceNumbers = [6 5 5 4 4 4 5 4 4 4]
+receivedSequenceNumbers = [6 5 5 4 4 4 5 4 4 4]
+receivedSequenceNumbers = [6 5 5 4 4 4 5 4 4 4]
+Received message 5 from site 3
+Updated receivedSequenceNumbers = [6 5 5 5 4 4 5 4 4 4]
+receivedSequenceNumbers = [6 5 5 5 4 4 5 4 4 4]
+receivedSequenceNumbers = [6 5 5 5 4 4 5 4 4 4]
+receivedSequenceNumbers = [6 5 5 5 4 4 5 4 4 4]
+receivedSequenceNumbers = [6 5 5 5 4 4 5 4 4 4]
+receivedSequenceNumbers = [6 5 5 5 4 4 5 4 4 4]
+Received message 5 from site 4
+Updated receivedSequenceNumbers = [6 5 5 5 5 4 5 4 4 4]
+receivedSequenceNumbers = [6 5 5 5 5 4 5 4 4 4]
+receivedSequenceNumbers = [6 5 5 5 5 4 5 4 4 4]
+receivedSequenceNumbers = [6 5 5 5 5 4 5 4 4 4]
+receivedSequenceNumbers = [6 5 5 5 5 4 5 4 4 4]
+receivedSequenceNumbers = [6 5 5 5 5 4 5 4 4 4]
+receivedSequenceNumbers = [6 5 5 5 5 4 5 4 4 4]
+receivedSequenceNumbers = [6 5 5 5 5 4 5 4 4 4]
+receivedSequenceNumbers = [6 5 5 5 5 4 5 4 4 4]
+receivedSequenceNumbers = [6 5 5 5 5 4 5 4 4 4]
+Received message 5 from site 8
+Updated receivedSequenceNumbers = [6 5 5 5 5 4 5 4 5 4]
+receivedSequenceNumbers = [6 5 5 5 5 4 5 4 5 4]
+Received message 5 from site 5
+Updated receivedSequenceNumbers = [6 5 5 5 5 5 5 4 5 4]
+receivedSequenceNumbers = [6 5 5 5 5 5 5 4 5 4]
+receivedSequenceNumbers = [6 5 5 5 5 5 5 4 5 4]
+receivedSequenceNumbers = [6 5 5 5 5 5 5 4 5 4]
+receivedSequenceNumbers = [6 5 5 5 5 5 5 4 5 4]
+receivedSequenceNumbers = [6 5 5 5 5 5 5 4 5 4]
+receivedSequenceNumbers = [6 5 5 5 5 5 5 4 5 4]
+receivedSequenceNumbers = [6 5 5 5 5 5 5 4 5 4]
+receivedSequenceNumbers = [6 5 5 5 5 5 5 4 5 4]
+receivedSequenceNumbers = [6 5 5 5 5 5 5 4 5 4]
+receivedSequenceNumbers = [6 5 5 5 5 5 5 4 5 4]
+receivedSequenceNumbers = [6 5 5 5 5 5 5 4 5 4]
+Received token
+Executing critical section
+Received message 5 from site 7
+Updated receivedSequenceNumbers = [6 5 5 5 5 5 5 5 5 4]
+receivedSequenceNumbers = [6 5 5 5 5 5 5 5 5 4]
+receivedSequenceNumbers = [6 5 5 5 5 5 5 5 5 4]
+receivedSequenceNumbers = [6 5 5 5 5 5 5 5 5 4]
+receivedSequenceNumbers = [6 5 5 5 5 5 5 5 5 4]
+receivedSequenceNumbers = [6 5 5 5 5 5 5 5 5 4]
+receivedSequenceNumbers = [6 5 5 5 5 5 5 5 5 4]
+receivedSequenceNumbers = [6 5 5 5 5 5 5 5 5 4]
+receivedSequenceNumbers = [6 5 5 5 5 5 5 5 5 4]
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [0 1 6 3 4 5 8 7]
+Executing non-critical section
+Sending token to site 0
+Token lock released
+receivedSequenceNumbers = [6 5 5 5 5 5 5 5 5 4]
+Received message 6 from site 2
+Updated receivedSequenceNumbers = [6 5 6 5 5 5 5 5 5 4]
+receivedSequenceNumbers = [6 5 6 5 5 5 5 5 5 4]
+Requesting critical section
+Sending message 5 to site 0
+Sending message 5 to site 1
+Sending message 5 to site 2
+Sending message 5 to site 3
+Sending message 5 to site 4
+Sending message 5 to site 5
+Sending message 5 to site 6
+Sending message 5 to site 7
+Sending message 5 to site 8
+Waiting for token
+receivedSequenceNumbers = [6 5 6 5 5 5 5 5 5 5]
+receivedSequenceNumbers = [6 5 6 5 5 5 5 5 5 5]
+receivedSequenceNumbers = [6 5 6 5 5 5 5 5 5 5]
+receivedSequenceNumbers = [6 5 6 5 5 5 5 5 5 5]
+Received message 7 from site 0
+Updated receivedSequenceNumbers = [7 5 6 5 5 5 5 5 5 5]
+receivedSequenceNumbers = [7 5 6 5 5 5 5 5 5 5]
+receivedSequenceNumbers = [7 5 6 5 5 5 5 5 5 5]
+receivedSequenceNumbers = [7 5 6 5 5 5 5 5 5 5]
+receivedSequenceNumbers = [7 5 6 5 5 5 5 5 5 5]
+receivedSequenceNumbers = [7 5 6 5 5 5 5 5 5 5]
+receivedSequenceNumbers = [7 5 6 5 5 5 5 5 5 5]
+Received message 6 from site 6
+Updated receivedSequenceNumbers = [7 5 6 5 5 5 6 5 5 5]
+receivedSequenceNumbers = [7 5 6 5 5 5 6 5 5 5]
+receivedSequenceNumbers = [7 5 6 5 5 5 6 5 5 5]
+receivedSequenceNumbers = [7 5 6 5 5 5 6 5 5 5]
+Received message 6 from site 3
+Updated receivedSequenceNumbers = [7 5 6 6 5 5 6 5 5 5]
+receivedSequenceNumbers = [7 5 6 6 5 5 6 5 5 5]
+Received message 6 from site 4
+Received message 6 from site 5
+Updated receivedSequenceNumbers = [7 5 6 6 6 5 6 5 5 5]
+Updated receivedSequenceNumbers = [7 5 6 6 6 6 6 5 5 5]
+receivedSequenceNumbers = [7 5 6 6 6 6 6 5 5 5]
+Received message 6 from site 1
+Updated receivedSequenceNumbers = [7 6 6 6 6 6 6 5 5 5]
+receivedSequenceNumbers = [7 6 6 6 6 6 6 5 5 5]
+receivedSequenceNumbers = [7 6 6 6 6 6 6 5 5 5]
+receivedSequenceNumbers = [7 6 6 6 6 6 6 5 5 5]
+receivedSequenceNumbers = [7 6 6 6 6 6 6 5 5 5]
+receivedSequenceNumbers = [7 6 6 6 6 6 6 5 5 5]
+receivedSequenceNumbers = [7 6 6 6 6 6 6 5 5 5]
+receivedSequenceNumbers = [7 6 6 6 6 6 6 5 5 5]
+receivedSequenceNumbers = [7 6 6 6 6 6 6 5 5 5]
+receivedSequenceNumbers = [7 6 6 6 6 6 6 5 5 5]
+Received message 6 from site 8
+Updated receivedSequenceNumbers = [7 6 6 6 6 6 6 5 6 5]
+receivedSequenceNumbers = [7 6 6 6 6 6 6 5 6 5]
+receivedSequenceNumbers = [7 6 6 6 6 6 6 5 6 5]
+receivedSequenceNumbers = [7 6 6 6 6 6 6 5 6 5]
+receivedSequenceNumbers = [7 6 6 6 6 6 6 5 6 5]
+Received message 6 from site 7
+Updated receivedSequenceNumbers = [7 6 6 6 6 6 6 6 6 5]
+receivedSequenceNumbers = [7 6 6 6 6 6 6 6 6 5]
+Received token
+Executing critical section
+receivedSequenceNumbers = [7 6 6 6 6 6 6 6 6 5]
+receivedSequenceNumbers = [7 6 6 6 6 6 6 6 6 5]
+receivedSequenceNumbers = [7 6 6 6 6 6 6 6 6 5]
+Received message 7 from site 2
+Updated receivedSequenceNumbers = [7 6 7 6 6 6 6 6 6 5]
+receivedSequenceNumbers = [7 6 7 6 6 6 6 6 6 5]
+receivedSequenceNumbers = [7 6 7 6 6 6 6 6 6 5]
+receivedSequenceNumbers = [7 6 7 6 6 6 6 6 6 5]
+receivedSequenceNumbers = [7 6 7 6 6 6 6 6 6 5]
+receivedSequenceNumbers = [7 6 7 6 6 6 6 6 6 5]
+receivedSequenceNumbers = [7 6 7 6 6 6 6 6 6 5]
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [0 6 3 1 4 5 7 8 2]
+Executing non-critical section
+Sending token to site 0
+Requesting critical section
+Token lock released
+Sending message 6 to site 0
+Sending message 6 to site 1
+Sending message 6 to site 2
+Sending message 6 to site 3
+Sending message 6 to site 4
+Sending message 6 to site 5
+Sending message 6 to site 6
+Sending message 6 to site 7
+Sending message 6 to site 8
+Waiting for token
+receivedSequenceNumbers = [7 6 7 6 6 6 6 6 6 6]
+receivedSequenceNumbers = [7 6 7 6 6 6 6 6 6 6]
+receivedSequenceNumbers = [7 6 7 6 6 6 6 6 6 6]
+receivedSequenceNumbers = [7 6 7 6 6 6 6 6 6 6]
+receivedSequenceNumbers = [7 6 7 6 6 6 6 6 6 6]
+receivedSequenceNumbers = [7 6 7 6 6 6 6 6 6 6]
+receivedSequenceNumbers = [7 6 7 6 6 6 6 6 6 6]
+receivedSequenceNumbers = [7 6 7 6 6 6 6 6 6 6]
+receivedSequenceNumbers = [7 6 7 6 6 6 6 6 6 6]
+receivedSequenceNumbers = [7 6 7 6 6 6 6 6 6 6]
+Received message 7 from site 6
+Updated receivedSequenceNumbers = [7 6 7 6 6 6 7 6 6 6]
+receivedSequenceNumbers = [7 6 7 6 6 6 7 6 6 6]
+receivedSequenceNumbers = [7 6 7 6 6 6 7 6 6 6]
+receivedSequenceNumbers = [7 6 7 6 6 6 7 6 6 6]
+receivedSequenceNumbers = [7 6 7 6 6 6 7 6 6 6]
+Received message 8 from site 0
+Updated receivedSequenceNumbers = [8 6 7 6 6 6 7 6 6 6]
+Received message 7 from site 1
+Updated receivedSequenceNumbers = [8 7 7 6 6 6 7 6 6 6]
+receivedSequenceNumbers = [8 7 7 6 6 6 7 6 6 6]
+receivedSequenceNumbers = [8 7 7 6 6 6 7 6 6 6]
+receivedSequenceNumbers = [8 7 7 6 6 6 7 6 6 6]
+receivedSequenceNumbers = [8 7 7 6 6 6 7 6 6 6]
+receivedSequenceNumbers = [8 7 7 6 6 6 7 6 6 6]
+Received message 7 from site 3
+Updated receivedSequenceNumbers = [8 7 7 7 6 6 7 6 6 6]
+receivedSequenceNumbers = [8 7 7 7 6 6 7 6 6 6]
+receivedSequenceNumbers = [8 7 7 7 6 6 7 6 6 6]
+Received message 7 from site 7
+Updated receivedSequenceNumbers = [8 7 7 7 6 6 7 7 6 6]
+receivedSequenceNumbers = [8 7 7 7 6 6 7 7 6 6]
+Received message 7 from site 8
+Updated receivedSequenceNumbers = [8 7 7 7 6 6 7 7 7 6]
+receivedSequenceNumbers = [8 7 7 7 6 6 7 7 7 6]
+Received message 7 from site 5
+Updated receivedSequenceNumbers = [8 7 7 7 6 7 7 7 7 6]
+Received message 7 from site 4
+Updated receivedSequenceNumbers = [8 7 7 7 7 7 7 7 7 6]
+receivedSequenceNumbers = [8 7 7 7 7 7 7 7 7 6]
+receivedSequenceNumbers = [8 7 7 7 7 7 7 7 7 6]
+receivedSequenceNumbers = [8 7 7 7 7 7 7 7 7 6]
+receivedSequenceNumbers = [8 7 7 7 7 7 7 7 7 6]
+receivedSequenceNumbers = [8 7 7 7 7 7 7 7 7 6]
+Received token
+Executing critical section
+receivedSequenceNumbers = [8 7 7 7 7 7 7 7 7 6]
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [6 0 1 3 4 5 7 8]
+Executing non-critical section
+Sending token to site 6
+Token lock released
+Received message 8 from site 2
+Updated receivedSequenceNumbers = [8 7 8 7 7 7 7 7 7 6]
+receivedSequenceNumbers = [8 7 8 7 7 7 7 7 7 6]
+Requesting critical section
+Sending message 7 to site 0
+Sending message 7 to site 1
+Sending message 7 to site 2
+Sending message 7 to site 3
+Sending message 7 to site 4
+Sending message 7 to site 5
+Sending message 7 to site 6
+Sending message 7 to site 7
+Sending message 7 to site 8
+Waiting for token
+receivedSequenceNumbers = [8 7 8 7 7 7 7 7 7 7]
+receivedSequenceNumbers = [8 7 8 7 7 7 7 7 7 7]
+receivedSequenceNumbers = [8 7 8 7 7 7 7 7 7 7]
+receivedSequenceNumbers = [8 7 8 7 7 7 7 7 7 7]
+Received message 8 from site 6
+Updated receivedSequenceNumbers = [8 7 8 7 7 7 8 7 7 7]
+Received message 9 from site 0
+Updated receivedSequenceNumbers = [9 7 8 7 7 7 8 7 7 7]
+receivedSequenceNumbers = [9 7 8 7 7 7 8 7 7 7]
+receivedSequenceNumbers = [9 7 8 7 7 7 8 7 7 7]
+receivedSequenceNumbers = [9 7 8 7 7 7 8 7 7 7]
+receivedSequenceNumbers = [9 7 8 7 7 7 8 7 7 7]
+receivedSequenceNumbers = [9 7 8 7 7 7 8 7 7 7]
+Received message 8 from site 1
+Updated receivedSequenceNumbers = [9 8 8 7 7 7 8 7 7 7]
+receivedSequenceNumbers = [9 8 8 7 7 7 8 7 7 7]
+receivedSequenceNumbers = [9 8 8 7 7 7 8 7 7 7]
+receivedSequenceNumbers = [9 8 8 7 7 7 8 7 7 7]
+receivedSequenceNumbers = [9 8 8 7 7 7 8 7 7 7]
+Received message 8 from site 3
+Updated receivedSequenceNumbers = [9 8 8 8 7 7 8 7 7 7]
+receivedSequenceNumbers = [9 8 8 8 7 7 8 7 7 7]
+receivedSequenceNumbers = [9 8 8 8 7 7 8 7 7 7]
+receivedSequenceNumbers = [9 8 8 8 7 7 8 7 7 7]
+receivedSequenceNumbers = [9 8 8 8 7 7 8 7 7 7]
+receivedSequenceNumbers = [9 8 8 8 7 7 8 7 7 7]
+receivedSequenceNumbers = [9 8 8 8 7 7 8 7 7 7]
+receivedSequenceNumbers = [9 8 8 8 7 7 8 7 7 7]
+Received message 8 from site 5
+Updated receivedSequenceNumbers = [9 8 8 8 7 8 8 7 7 7]
+receivedSequenceNumbers = [9 8 8 8 7 8 8 7 7 7]
+receivedSequenceNumbers = [9 8 8 8 7 8 8 7 7 7]
+receivedSequenceNumbers = [9 8 8 8 7 8 8 7 7 7]
+Received message 8 from site 7
+Updated receivedSequenceNumbers = [9 8 8 8 7 8 8 8 7 7]
+receivedSequenceNumbers = [9 8 8 8 7 8 8 8 7 7]
+receivedSequenceNumbers = [9 8 8 8 7 8 8 8 7 7]
+Received message 8 from site 8
+Updated receivedSequenceNumbers = [9 8 8 8 7 8 8 8 8 7]
+receivedSequenceNumbers = [9 8 8 8 7 8 8 8 8 7]
+Received message 8 from site 4
+Updated receivedSequenceNumbers = [9 8 8 8 8 8 8 8 8 7]
+receivedSequenceNumbers = [9 8 8 8 8 8 8 8 8 7]
+receivedSequenceNumbers = [9 8 8 8 8 8 8 8 8 7]
+receivedSequenceNumbers = [9 8 8 8 8 8 8 8 8 7]
+receivedSequenceNumbers = [9 8 8 8 8 8 8 8 8 7]
+receivedSequenceNumbers = [9 8 8 8 8 8 8 8 8 7]
+Received token
+Executing critical section
+receivedSequenceNumbers = [9 8 8 8 8 8 8 8 8 7]
+receivedSequenceNumbers = [9 8 8 8 8 8 8 8 8 7]
+receivedSequenceNumbers = [9 8 8 8 8 8 8 8 8 7]
+Received message 9 from site 2
+Updated receivedSequenceNumbers = [9 8 9 8 8 8 8 8 8 7]
+receivedSequenceNumbers = [9 8 9 8 8 8 8 8 8 7]
+receivedSequenceNumbers = [9 8 9 8 8 8 8 8 8 7]
+receivedSequenceNumbers = [9 8 9 8 8 8 8 8 8 7]
+receivedSequenceNumbers = [9 8 9 8 8 8 8 8 8 7]
+receivedSequenceNumbers = [9 8 9 8 8 8 8 8 8 7]
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [0 6 1 3 5 7 4 8 2]
+Executing non-critical section
+Sending token to site 0
+Token lock released
+receivedSequenceNumbers = [9 8 9 8 8 8 8 8 8 7]
+receivedSequenceNumbers = [9 8 9 8 8 8 8 8 8 7]
+receivedSequenceNumbers = [9 8 9 8 8 8 8 8 8 7]
+receivedSequenceNumbers = [9 8 9 8 8 8 8 8 8 7]
+receivedSequenceNumbers = [9 8 9 8 8 8 8 8 8 7]
+receivedSequenceNumbers = [9 8 9 8 8 8 8 8 8 7]
+receivedSequenceNumbers = [9 8 9 8 8 8 8 8 8 7]
+Requesting critical section
+Sending message 8 to site 0
+Sending message 8 to site 1
+Sending message 8 to site 2
+Sending message 8 to site 3
+Sending message 8 to site 4
+Sending message 8 to site 5
+Sending message 8 to site 6
+Sending message 8 to site 7
+Sending message 8 to site 8
+Waiting for token
+receivedSequenceNumbers = [9 8 9 8 8 8 8 8 8 8]
+receivedSequenceNumbers = [9 8 9 8 8 8 8 8 8 8]
+receivedSequenceNumbers = [9 8 9 8 8 8 8 8 8 8]
+receivedSequenceNumbers = [9 8 9 8 8 8 8 8 8 8]
+receivedSequenceNumbers = [9 8 9 8 8 8 8 8 8 8]
+Received message 10 from site 0
+Updated receivedSequenceNumbers = [10 8 9 8 8 8 8 8 8 8]
+Received message 9 from site 6
+Updated receivedSequenceNumbers = [10 8 9 8 8 8 9 8 8 8]
+receivedSequenceNumbers = [10 8 9 8 8 8 9 8 8 8]
+receivedSequenceNumbers = [10 8 9 8 8 8 9 8 8 8]
+receivedSequenceNumbers = [10 8 9 8 8 8 9 8 8 8]
+receivedSequenceNumbers = [10 8 9 8 8 8 9 8 8 8]
+receivedSequenceNumbers = [10 8 9 8 8 8 9 8 8 8]
+receivedSequenceNumbers = [10 8 9 8 8 8 9 8 8 8]
+Received message 9 from site 1
+Updated receivedSequenceNumbers = [10 9 9 8 8 8 9 8 8 8]
+receivedSequenceNumbers = [10 9 9 8 8 8 9 8 8 8]
+receivedSequenceNumbers = [10 9 9 8 8 8 9 8 8 8]
+receivedSequenceNumbers = [10 9 9 8 8 8 9 8 8 8]
+receivedSequenceNumbers = [10 9 9 8 8 8 9 8 8 8]
+receivedSequenceNumbers = [10 9 9 8 8 8 9 8 8 8]
+receivedSequenceNumbers = [10 9 9 8 8 8 9 8 8 8]
+Received message 9 from site 3
+Updated receivedSequenceNumbers = [10 9 9 9 8 8 9 8 8 8]
+receivedSequenceNumbers = [10 9 9 9 8 8 9 8 8 8]
+receivedSequenceNumbers = [10 9 9 9 8 8 9 8 8 8]
+receivedSequenceNumbers = [10 9 9 9 8 8 9 8 8 8]
+receivedSequenceNumbers = [10 9 9 9 8 8 9 8 8 8]
+Received message 9 from site 5
+Updated receivedSequenceNumbers = [10 9 9 9 8 9 9 8 8 8]
+receivedSequenceNumbers = [10 9 9 9 8 9 9 8 8 8]
+receivedSequenceNumbers = [10 9 9 9 8 9 9 8 8 8]
+receivedSequenceNumbers = [10 9 9 9 8 9 9 8 8 8]
+receivedSequenceNumbers = [10 9 9 9 8 9 9 8 8 8]
+receivedSequenceNumbers = [10 9 9 9 8 9 9 8 8 8]
+receivedSequenceNumbers = [10 9 9 9 8 9 9 8 8 8]
+receivedSequenceNumbers = [10 9 9 9 8 9 9 8 8 8]
+receivedSequenceNumbers = [10 9 9 9 8 9 9 8 8 8]
+receivedSequenceNumbers = [10 9 9 9 8 9 9 8 8 8]
+receivedSequenceNumbers = [10 9 9 9 8 9 9 8 8 8]
+receivedSequenceNumbers = [10 9 9 9 8 9 9 8 8 8]
+Received message 9 from site 4
+Updated receivedSequenceNumbers = [10 9 9 9 9 9 9 8 8 8]
+receivedSequenceNumbers = [10 9 9 9 9 9 9 8 8 8]
+Received message 9 from site 7
+Updated receivedSequenceNumbers = [10 9 9 9 9 9 9 9 8 8]
+receivedSequenceNumbers = [10 9 9 9 9 9 9 9 8 8]
+Received token
+Executing critical section
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [0 6 1 3 5 4 7]
+Executing non-critical section
+Sending token to site 0
+Token lock released
+Received message 9 from site 8
+Updated receivedSequenceNumbers = [10 9 9 9 9 9 9 9 9 8]
+receivedSequenceNumbers = [10 9 9 9 9 9 9 9 9 8]
+Requesting critical section
+Sending message 9 to site 0
+Sending message 9 to site 1
+Sending message 9 to site 2
+Sending message 9 to site 3
+Sending message 9 to site 4
+Sending message 9 to site 5
+Sending message 9 to site 6
+Sending message 9 to site 7
+Sending message 9 to site 8
+Waiting for token
+receivedSequenceNumbers = [10 9 9 9 9 9 9 9 9 9]
+receivedSequenceNumbers = [10 9 9 9 9 9 9 9 9 9]
+receivedSequenceNumbers = [10 9 9 9 9 9 9 9 9 9]
+Received message 10 from site 2
+Updated receivedSequenceNumbers = [10 9 10 9 9 9 9 9 9 9]
+receivedSequenceNumbers = [10 9 10 9 9 9 9 9 9 9]
+receivedSequenceNumbers = [10 9 10 9 9 9 9 9 9 9]
+receivedSequenceNumbers = [10 9 10 9 9 9 9 9 9 9]
+receivedSequenceNumbers = [10 9 10 9 9 9 9 9 9 9]
+receivedSequenceNumbers = [10 9 10 9 9 9 9 9 9 9]
+receivedSequenceNumbers = [10 9 10 9 9 9 9 9 9 9]
+receivedSequenceNumbers = [10 9 10 9 9 9 9 9 9 9]
+Received message 10 from site 6
+Updated receivedSequenceNumbers = [10 9 10 9 9 9 10 9 9 9]
+receivedSequenceNumbers = [10 9 10 9 9 9 10 9 9 9]
+receivedSequenceNumbers = [10 9 10 9 9 9 10 9 9 9]
+receivedSequenceNumbers = [10 9 10 9 9 9 10 9 9 9]
+Received message 11 from site 0
+Updated receivedSequenceNumbers = [11 9 10 9 9 9 10 9 9 9]
+receivedSequenceNumbers = [11 9 10 9 9 9 10 9 9 9]
+Received message 10 from site 1
+Updated receivedSequenceNumbers = [11 10 10 9 9 9 10 9 9 9]
+receivedSequenceNumbers = [11 10 10 9 9 9 10 9 9 9]
+receivedSequenceNumbers = [11 10 10 9 9 9 10 9 9 9]
+Received message 10 from site 3
+Updated receivedSequenceNumbers = [11 10 10 10 9 9 10 9 9 9]
+receivedSequenceNumbers = [11 10 10 10 9 9 10 9 9 9]
+receivedSequenceNumbers = [11 10 10 10 9 9 10 9 9 9]
+receivedSequenceNumbers = [11 10 10 10 9 9 10 9 9 9]
+receivedSequenceNumbers = [11 10 10 10 9 9 10 9 9 9]
+receivedSequenceNumbers = [11 10 10 10 9 9 10 9 9 9]
+Received message 10 from site 5
+Updated receivedSequenceNumbers = [11 10 10 10 9 10 10 9 9 9]
+receivedSequenceNumbers = [11 10 10 10 9 10 10 9 9 9]
+receivedSequenceNumbers = [11 10 10 10 9 10 10 9 9 9]
+receivedSequenceNumbers = [11 10 10 10 9 10 10 9 9 9]
+receivedSequenceNumbers = [11 10 10 10 9 10 10 9 9 9]
+receivedSequenceNumbers = [11 10 10 10 9 10 10 9 9 9]
+receivedSequenceNumbers = [11 10 10 10 9 10 10 9 9 9]
+receivedSequenceNumbers = [11 10 10 10 9 10 10 9 9 9]
+receivedSequenceNumbers = [11 10 10 10 9 10 10 9 9 9]
+receivedSequenceNumbers = [11 10 10 10 9 10 10 9 9 9]
+receivedSequenceNumbers = [11 10 10 10 9 10 10 9 9 9]
+Received message 10 from site 4
+Updated receivedSequenceNumbers = [11 10 10 10 10 10 10 9 9 9]
+receivedSequenceNumbers = [11 10 10 10 10 10 10 9 9 9]
+receivedSequenceNumbers = [11 10 10 10 10 10 10 9 9 9]
+Received message 10 from site 7
+Updated receivedSequenceNumbers = [11 10 10 10 10 10 10 10 9 9]
+receivedSequenceNumbers = [11 10 10 10 10 10 10 10 9 9]
+Received token
+Executing critical section
+receivedSequenceNumbers = [11 10 10 10 10 10 10 10 9 9]
+receivedSequenceNumbers = [11 10 10 10 10 10 10 10 9 9]
+Releasing critical section
+Updated serviceQueue = [6 0 1 3 5 4 7]
+Completed cycle
+Sending token to site 6
+Executing non-critical section
+Token lock released
+receivedSequenceNumbers = [11 10 10 10 10 10 10 10 9 9]
+Received message 11 from site 2
+Updated receivedSequenceNumbers = [11 10 11 10 10 10 10 10 9 9]
+receivedSequenceNumbers = [11 10 11 10 10 10 10 10 9 9]
+Requesting critical section
+Sending message 10 to site 0
+Sending message 10 to site 1
+Sending message 10 to site 2
+Sending message 10 to site 3
+Sending message 10 to site 4
+Sending message 10 to site 5
+Sending message 10 to site 6
+Sending message 10 to site 7
+Sending message 10 to site 8
+Waiting for token
+receivedSequenceNumbers = [11 10 11 10 10 10 10 10 9 10]
+Received message 10 from site 8
+Updated receivedSequenceNumbers = [11 10 11 10 10 10 10 10 10 10]
+receivedSequenceNumbers = [11 10 11 10 10 10 10 10 10 10]
+receivedSequenceNumbers = [11 10 11 10 10 10 10 10 10 10]
+receivedSequenceNumbers = [11 10 11 10 10 10 10 10 10 10]
+Received message 11 from site 6
+Updated receivedSequenceNumbers = [11 10 11 10 10 10 11 10 10 10]
+receivedSequenceNumbers = [11 10 11 10 10 10 11 10 10 10]
+receivedSequenceNumbers = [11 10 11 10 10 10 11 10 10 10]
+receivedSequenceNumbers = [11 10 11 10 10 10 11 10 10 10]
+receivedSequenceNumbers = [11 10 11 10 10 10 11 10 10 10]
+receivedSequenceNumbers = [11 10 11 10 10 10 11 10 10 10]
+Received message 12 from site 0
+Updated receivedSequenceNumbers = [12 10 11 10 10 10 11 10 10 10]
+receivedSequenceNumbers = [12 10 11 10 10 10 11 10 10 10]
+receivedSequenceNumbers = [12 10 11 10 10 10 11 10 10 10]
+receivedSequenceNumbers = [12 10 11 10 10 10 11 10 10 10]
+receivedSequenceNumbers = [12 10 11 10 10 10 11 10 10 10]
+receivedSequenceNumbers = [12 10 11 10 10 10 11 10 10 10]
+receivedSequenceNumbers = [12 10 11 10 10 10 11 10 10 10]
+receivedSequenceNumbers = [12 10 11 10 10 10 11 10 10 10]
+Received message 11 from site 3
+Updated receivedSequenceNumbers = [12 10 11 11 10 10 11 10 10 10]
+receivedSequenceNumbers = [12 10 11 11 10 10 11 10 10 10]
+receivedSequenceNumbers = [12 10 11 11 10 10 11 10 10 10]
+receivedSequenceNumbers = [12 10 11 11 10 10 11 10 10 10]
+receivedSequenceNumbers = [12 10 11 11 10 10 11 10 10 10]
+Received message 11 from site 1
+Updated receivedSequenceNumbers = [12 11 11 11 10 10 11 10 10 10]
+receivedSequenceNumbers = [12 11 11 11 10 10 11 10 10 10]
+Received message 11 from site 5
+Updated receivedSequenceNumbers = [12 11 11 11 10 11 11 10 10 10]
+receivedSequenceNumbers = [12 11 11 11 10 11 11 10 10 10]
+receivedSequenceNumbers = [12 11 11 11 10 11 11 10 10 10]
+receivedSequenceNumbers = [12 11 11 11 10 11 11 10 10 10]
+receivedSequenceNumbers = [12 11 11 11 10 11 11 10 10 10]
+receivedSequenceNumbers = [12 11 11 11 10 11 11 10 10 10]
+receivedSequenceNumbers = [12 11 11 11 10 11 11 10 10 10]
+receivedSequenceNumbers = [12 11 11 11 10 11 11 10 10 10]
+receivedSequenceNumbers = [12 11 11 11 10 11 11 10 10 10]
+receivedSequenceNumbers = [12 11 11 11 10 11 11 10 10 10]
+receivedSequenceNumbers = [12 11 11 11 10 11 11 10 10 10]
+Received message 11 from site 4
+Updated receivedSequenceNumbers = [12 11 11 11 11 11 11 10 10 10]
+receivedSequenceNumbers = [12 11 11 11 11 11 11 10 10 10]
+receivedSequenceNumbers = [12 11 11 11 11 11 11 10 10 10]
+receivedSequenceNumbers = [12 11 11 11 11 11 11 10 10 10]
+receivedSequenceNumbers = [12 11 11 11 11 11 11 10 10 10]
+receivedSequenceNumbers = [12 11 11 11 11 11 11 10 10 10]
+receivedSequenceNumbers = [12 11 11 11 11 11 11 10 10 10]
+receivedSequenceNumbers = [12 11 11 11 11 11 11 10 10 10]
+receivedSequenceNumbers = [12 11 11 11 11 11 11 10 10 10]
+Received message 12 from site 2
+Updated receivedSequenceNumbers = [12 11 12 11 11 11 11 10 10 10]
+receivedSequenceNumbers = [12 11 12 11 11 11 11 10 10 10]
+Received message 11 from site 7
+Updated receivedSequenceNumbers = [12 11 12 11 11 11 11 11 10 10]
+receivedSequenceNumbers = [12 11 12 11 11 11 11 11 10 10]
+receivedSequenceNumbers = [12 11 12 11 11 11 11 11 10 10]
+receivedSequenceNumbers = [12 11 12 11 11 11 11 11 10 10]
+receivedSequenceNumbers = [12 11 12 11 11 11 11 11 10 10]
+receivedSequenceNumbers = [12 11 12 11 11 11 11 11 10 10]
+receivedSequenceNumbers = [12 11 12 11 11 11 11 11 10 10]
+receivedSequenceNumbers = [12 11 12 11 11 11 11 11 10 10]
+receivedSequenceNumbers = [12 11 12 11 11 11 11 11 10 10]
+receivedSequenceNumbers = [12 11 12 11 11 11 11 11 10 10]
+receivedSequenceNumbers = [12 11 12 11 11 11 11 11 10 10]
+receivedSequenceNumbers = [12 11 12 11 11 11 11 11 10 10]
+receivedSequenceNumbers = [12 11 12 11 11 11 11 11 10 10]
+receivedSequenceNumbers = [12 11 12 11 11 11 11 11 10 10]
+Received token
+Executing critical section
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [0 1 3 5 4 2 7]
+Sending token to site 0
+Executing non-critical section
+Token lock released
+Received message 12 from site 6
+Updated receivedSequenceNumbers = [12 11 12 11 11 11 12 11 10 10]
+receivedSequenceNumbers = [12 11 12 11 11 11 12 11 10 10]
+receivedSequenceNumbers = [12 11 12 11 11 11 12 11 10 10]
+Requesting critical section
+Sending message 11 to site 0
+Sending message 11 to site 1
+Sending message 11 to site 2
+Sending message 11 to site 3
+Sending message 11 to site 4
+Sending message 11 to site 5
+Sending message 11 to site 6
+Sending message 11 to site 7
+Sending message 11 to site 8
+Waiting for token
+receivedSequenceNumbers = [12 11 12 11 11 11 12 11 10 11]
+receivedSequenceNumbers = [12 11 12 11 11 11 12 11 10 11]
+receivedSequenceNumbers = [12 11 12 11 11 11 12 11 10 11]
+Received message 11 from site 8
+Updated receivedSequenceNumbers = [12 11 12 11 11 11 12 11 11 11]
+Received message 13 from site 0
+Updated receivedSequenceNumbers = [13 11 12 11 11 11 12 11 11 11]
+receivedSequenceNumbers = [13 11 12 11 11 11 12 11 11 11]
+receivedSequenceNumbers = [13 11 12 11 11 11 12 11 11 11]
+receivedSequenceNumbers = [13 11 12 11 11 11 12 11 11 11]
+receivedSequenceNumbers = [13 11 12 11 11 11 12 11 11 11]
+receivedSequenceNumbers = [13 11 12 11 11 11 12 11 11 11]
+Received message 12 from site 1
+Updated receivedSequenceNumbers = [13 12 12 11 11 11 12 11 11 11]
+Received message 12 from site 5
+Updated receivedSequenceNumbers = [13 12 12 11 11 12 12 11 11 11]
+receivedSequenceNumbers = [13 12 12 11 11 12 12 11 11 11]
+receivedSequenceNumbers = [13 12 12 11 11 12 12 11 11 11]
+receivedSequenceNumbers = [13 12 12 11 11 12 12 11 11 11]
+receivedSequenceNumbers = [13 12 12 11 11 12 12 11 11 11]
+receivedSequenceNumbers = [13 12 12 11 11 12 12 11 11 11]
+Received message 12 from site 3
+Updated receivedSequenceNumbers = [13 12 12 12 11 12 12 11 11 11]
+receivedSequenceNumbers = [13 12 12 12 11 12 12 11 11 11]
+receivedSequenceNumbers = [13 12 12 12 11 12 12 11 11 11]
+receivedSequenceNumbers = [13 12 12 12 11 12 12 11 11 11]
+receivedSequenceNumbers = [13 12 12 12 11 12 12 11 11 11]
+receivedSequenceNumbers = [13 12 12 12 11 12 12 11 11 11]
+receivedSequenceNumbers = [13 12 12 12 11 12 12 11 11 11]
+receivedSequenceNumbers = [13 12 12 12 11 12 12 11 11 11]
+Received message 12 from site 4
+Updated receivedSequenceNumbers = [13 12 12 12 12 12 12 11 11 11]
+receivedSequenceNumbers = [13 12 12 12 12 12 12 11 11 11]
+Received message 13 from site 2
+Updated receivedSequenceNumbers = [13 12 13 12 12 12 12 11 11 11]
+receivedSequenceNumbers = [13 12 13 12 12 12 12 11 11 11]
+receivedSequenceNumbers = [13 12 13 12 12 12 12 11 11 11]
+Received token
+Executing critical section
+receivedSequenceNumbers = [13 12 13 12 12 12 12 11 11 11]
+receivedSequenceNumbers = [13 12 13 12 12 12 12 11 11 11]
+Received message 12 from site 7
+Updated receivedSequenceNumbers = [13 12 13 12 12 12 12 12 11 11]
+receivedSequenceNumbers = [13 12 13 12 12 12 12 12 11 11]
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [0 8 1 5 3 2 4 7]
+Executing non-critical section
+Sending token to site 0
+Token lock released
+receivedSequenceNumbers = [13 12 13 12 12 12 12 12 11 11]
+receivedSequenceNumbers = [13 12 13 12 12 12 12 12 11 11]
+receivedSequenceNumbers = [13 12 13 12 12 12 12 12 11 11]
+Received message 13 from site 6
+Updated receivedSequenceNumbers = [13 12 13 12 12 12 13 12 11 11]
+receivedSequenceNumbers = [13 12 13 12 12 12 13 12 11 11]
+receivedSequenceNumbers = [13 12 13 12 12 12 13 12 11 11]
+Requesting critical section
+Sending message 12 to site 0
+Sending message 12 to site 1
+Sending message 12 to site 2
+Sending message 12 to site 3
+Sending message 12 to site 4
+Sending message 12 to site 5
+Sending message 12 to site 6
+Sending message 12 to site 7
+Sending message 12 to site 8
+Waiting for token
+receivedSequenceNumbers = [13 12 13 12 12 12 13 12 11 12]
+receivedSequenceNumbers = [13 12 13 12 12 12 13 12 11 12]
+receivedSequenceNumbers = [13 12 13 12 12 12 13 12 11 12]
+receivedSequenceNumbers = [13 12 13 12 12 12 13 12 11 12]
+receivedSequenceNumbers = [13 12 13 12 12 12 13 12 11 12]
+receivedSequenceNumbers = [13 12 13 12 12 12 13 12 11 12]
+Received message 14 from site 0
+Updated receivedSequenceNumbers = [14 12 13 12 12 12 13 12 11 12]
+receivedSequenceNumbers = [14 12 13 12 12 12 13 12 11 12]
+receivedSequenceNumbers = [14 12 13 12 12 12 13 12 11 12]
+Received message 12 from site 8
+Updated receivedSequenceNumbers = [14 12 13 12 12 12 13 12 12 12]
+receivedSequenceNumbers = [14 12 13 12 12 12 13 12 12 12]
+receivedSequenceNumbers = [14 12 13 12 12 12 13 12 12 12]
+receivedSequenceNumbers = [14 12 13 12 12 12 13 12 12 12]
+receivedSequenceNumbers = [14 12 13 12 12 12 13 12 12 12]
+Received message 13 from site 1
+Updated receivedSequenceNumbers = [14 13 13 12 12 12 13 12 12 12]
+receivedSequenceNumbers = [14 13 13 12 12 12 13 12 12 12]
+receivedSequenceNumbers = [14 13 13 12 12 12 13 12 12 12]
+receivedSequenceNumbers = [14 13 13 12 12 12 13 12 12 12]
+receivedSequenceNumbers = [14 13 13 12 12 12 13 12 12 12]
+receivedSequenceNumbers = [14 13 13 12 12 12 13 12 12 12]
+receivedSequenceNumbers = [14 13 13 12 12 12 13 12 12 12]
+receivedSequenceNumbers = [14 13 13 12 12 12 13 12 12 12]
+receivedSequenceNumbers = [14 13 13 12 12 12 13 12 12 12]
+Received message 13 from site 5
+Updated receivedSequenceNumbers = [14 13 13 12 12 13 13 12 12 12]
+Received message 13 from site 3
+Updated receivedSequenceNumbers = [14 13 13 13 12 13 13 12 12 12]
+receivedSequenceNumbers = [14 13 13 13 12 13 13 12 12 12]
+receivedSequenceNumbers = [14 13 13 13 12 13 13 12 12 12]
+receivedSequenceNumbers = [14 13 13 13 12 13 13 12 12 12]
+receivedSequenceNumbers = [14 13 13 13 12 13 13 12 12 12]
+receivedSequenceNumbers = [14 13 13 13 12 13 13 12 12 12]
+Received message 14 from site 2
+Updated receivedSequenceNumbers = [14 13 14 13 12 13 13 12 12 12]
+receivedSequenceNumbers = [14 13 14 13 12 13 13 12 12 12]
+receivedSequenceNumbers = [14 13 14 13 12 13 13 12 12 12]
+receivedSequenceNumbers = [14 13 14 13 12 13 13 12 12 12]
+receivedSequenceNumbers = [14 13 14 13 12 13 13 12 12 12]
+receivedSequenceNumbers = [14 13 14 13 12 13 13 12 12 12]
+Received token
+Executing critical section
+Received message 13 from site 4
+Updated receivedSequenceNumbers = [14 13 14 13 13 13 13 12 12 12]
+receivedSequenceNumbers = [14 13 14 13 13 13 13 12 12 12]
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [0 1 8 3 5 2 4]
+Executing non-critical section
+Sending token to site 0
+Token lock released
+receivedSequenceNumbers = [14 13 14 13 13 13 13 12 12 12]
+receivedSequenceNumbers = [14 13 14 13 13 13 13 12 12 12]
+receivedSequenceNumbers = [14 13 14 13 13 13 13 12 12 12]
+receivedSequenceNumbers = [14 13 14 13 13 13 13 12 12 12]
+Requesting critical section
+Sending message 13 to site 0
+Sending message 13 to site 1
+Sending message 13 to site 2
+Sending message 13 to site 3
+Sending message 13 to site 4
+Sending message 13 to site 5
+Sending message 13 to site 6
+Sending message 13 to site 7
+Sending message 13 to site 8
+Waiting for token
+receivedSequenceNumbers = [14 13 14 13 13 13 13 12 12 13]
+receivedSequenceNumbers = [14 13 14 13 13 13 13 12 12 13]
+receivedSequenceNumbers = [14 13 14 13 13 13 13 12 12 13]
+Received message 13 from site 7
+Updated receivedSequenceNumbers = [14 13 14 13 13 13 13 13 12 13]
+receivedSequenceNumbers = [14 13 14 13 13 13 13 13 12 13]
+Received message 14 from site 6
+Updated receivedSequenceNumbers = [14 13 14 13 13 13 14 13 12 13]
+Received message 15 from site 0
+Updated receivedSequenceNumbers = [15 13 14 13 13 13 14 13 12 13]
+receivedSequenceNumbers = [15 13 14 13 13 13 14 13 12 13]
+receivedSequenceNumbers = [15 13 14 13 13 13 14 13 12 13]
+receivedSequenceNumbers = [15 13 14 13 13 13 14 13 12 13]
+receivedSequenceNumbers = [15 13 14 13 13 13 14 13 12 13]
+receivedSequenceNumbers = [15 13 14 13 13 13 14 13 12 13]
+receivedSequenceNumbers = [15 13 14 13 13 13 14 13 12 13]
+Received message 14 from site 1
+Updated receivedSequenceNumbers = [15 14 14 13 13 13 14 13 12 13]
+receivedSequenceNumbers = [15 14 14 13 13 13 14 13 12 13]
+receivedSequenceNumbers = [15 14 14 13 13 13 14 13 12 13]
+receivedSequenceNumbers = [15 14 14 13 13 13 14 13 12 13]
+receivedSequenceNumbers = [15 14 14 13 13 13 14 13 12 13]
+receivedSequenceNumbers = [15 14 14 13 13 13 14 13 12 13]
+receivedSequenceNumbers = [15 14 14 13 13 13 14 13 12 13]
+receivedSequenceNumbers = [15 14 14 13 13 13 14 13 12 13]
+receivedSequenceNumbers = [15 14 14 13 13 13 14 13 12 13]
+receivedSequenceNumbers = [15 14 14 13 13 13 14 13 12 13]
+receivedSequenceNumbers = [15 14 14 13 13 13 14 13 12 13]
+Received message 13 from site 8
+Updated receivedSequenceNumbers = [15 14 14 13 13 13 14 13 13 13]
+Received message 14 from site 3
+Updated receivedSequenceNumbers = [15 14 14 14 13 13 14 13 13 13]
+receivedSequenceNumbers = [15 14 14 14 13 13 14 13 13 13]
+receivedSequenceNumbers = [15 14 14 14 13 13 14 13 13 13]
+receivedSequenceNumbers = [15 14 14 14 13 13 14 13 13 13]
+receivedSequenceNumbers = [15 14 14 14 13 13 14 13 13 13]
+receivedSequenceNumbers = [15 14 14 14 13 13 14 13 13 13]
+receivedSequenceNumbers = [15 14 14 14 13 13 14 13 13 13]
+receivedSequenceNumbers = [15 14 14 14 13 13 14 13 13 13]
+receivedSequenceNumbers = [15 14 14 14 13 13 14 13 13 13]
+receivedSequenceNumbers = [15 14 14 14 13 13 14 13 13 13]
+Received message 15 from site 2
+Updated receivedSequenceNumbers = [15 14 15 14 13 13 14 13 13 13]
+receivedSequenceNumbers = [15 14 15 14 13 13 14 13 13 13]
+receivedSequenceNumbers = [15 14 15 14 13 13 14 13 13 13]
+Received token
+Executing critical section
+Received message 14 from site 4
+Updated receivedSequenceNumbers = [15 14 15 14 14 13 14 13 13 13]
+receivedSequenceNumbers = [15 14 15 14 14 13 14 13 13 13]
+receivedSequenceNumbers = [15 14 15 14 14 13 14 13 13 13]
+receivedSequenceNumbers = [15 14 15 14 14 13 14 13 13 13]
+Received message 14 from site 5
+Updated receivedSequenceNumbers = [15 14 15 14 14 14 14 13 13 13]
+receivedSequenceNumbers = [15 14 15 14 14 14 14 13 13 13]
+receivedSequenceNumbers = [15 14 15 14 14 14 14 13 13 13]
+receivedSequenceNumbers = [15 14 15 14 14 14 14 13 13 13]
+receivedSequenceNumbers = [15 14 15 14 14 14 14 13 13 13]
+receivedSequenceNumbers = [15 14 15 14 14 14 14 13 13 13]
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [0 1 6 7 3 8 2 4 5]
+Executing non-critical section
+Sending token to site 0
+Token lock released
+receivedSequenceNumbers = [15 14 15 14 14 14 14 13 13 13]
+receivedSequenceNumbers = [15 14 15 14 14 14 14 13 13 13]
+receivedSequenceNumbers = [15 14 15 14 14 14 14 13 13 13]
+receivedSequenceNumbers = [15 14 15 14 14 14 14 13 13 13]
+Received message 16 from site 0
+Updated receivedSequenceNumbers = [16 14 15 14 14 14 14 13 13 13]
+receivedSequenceNumbers = [16 14 15 14 14 14 14 13 13 13]
+receivedSequenceNumbers = [16 14 15 14 14 14 14 13 13 13]
+Requesting critical section
+Sending message 14 to site 0
+Sending message 14 to site 1
+Sending message 14 to site 2
+Sending message 14 to site 3
+Sending message 14 to site 4
+Sending message 14 to site 5
+Sending message 14 to site 6
+Sending message 14 to site 7
+Sending message 14 to site 8
+Waiting for token
+Received message 15 from site 1
+Updated receivedSequenceNumbers = [16 15 15 14 14 14 14 13 13 14]
+receivedSequenceNumbers = [16 15 15 14 14 14 14 13 13 14]
+receivedSequenceNumbers = [16 15 15 14 14 14 14 13 13 14]
+receivedSequenceNumbers = [16 15 15 14 14 14 14 13 13 14]
+receivedSequenceNumbers = [16 15 15 14 14 14 14 13 13 14]
+receivedSequenceNumbers = [16 15 15 14 14 14 14 13 13 14]
+receivedSequenceNumbers = [16 15 15 14 14 14 14 13 13 14]
+receivedSequenceNumbers = [16 15 15 14 14 14 14 13 13 14]
+receivedSequenceNumbers = [16 15 15 14 14 14 14 13 13 14]
+Received message 15 from site 6
+Updated receivedSequenceNumbers = [16 15 15 14 14 14 15 13 13 14]
+receivedSequenceNumbers = [16 15 15 14 14 14 15 13 13 14]
+receivedSequenceNumbers = [16 15 15 14 14 14 15 13 13 14]
+receivedSequenceNumbers = [16 15 15 14 14 14 15 13 13 14]
+receivedSequenceNumbers = [16 15 15 14 14 14 15 13 13 14]
+receivedSequenceNumbers = [16 15 15 14 14 14 15 13 13 14]
+receivedSequenceNumbers = [16 15 15 14 14 14 15 13 13 14]
+receivedSequenceNumbers = [16 15 15 14 14 14 15 13 13 14]
+receivedSequenceNumbers = [16 15 15 14 14 14 15 13 13 14]
+receivedSequenceNumbers = [16 15 15 14 14 14 15 13 13 14]
+receivedSequenceNumbers = [16 15 15 14 14 14 15 13 13 14]
+receivedSequenceNumbers = [16 15 15 14 14 14 15 13 13 14]
+receivedSequenceNumbers = [16 15 15 14 14 14 15 13 13 14]
+Received message 15 from site 3
+Updated receivedSequenceNumbers = [16 15 15 15 14 14 15 13 13 14]
+receivedSequenceNumbers = [16 15 15 15 14 14 15 13 13 14]
+Received message 14 from site 7
+Updated receivedSequenceNumbers = [16 15 15 15 14 14 15 14 13 14]
+receivedSequenceNumbers = [16 15 15 15 14 14 15 14 13 14]
+receivedSequenceNumbers = [16 15 15 15 14 14 15 14 13 14]
+receivedSequenceNumbers = [16 15 15 15 14 14 15 14 13 14]
+receivedSequenceNumbers = [16 15 15 15 14 14 15 14 13 14]
+receivedSequenceNumbers = [16 15 15 15 14 14 15 14 13 14]
+receivedSequenceNumbers = [16 15 15 15 14 14 15 14 13 14]
+receivedSequenceNumbers = [16 15 15 15 14 14 15 14 13 14]
+Received message 14 from site 8
+Updated receivedSequenceNumbers = [16 15 15 15 14 14 15 14 14 14]
+receivedSequenceNumbers = [16 15 15 15 14 14 15 14 14 14]
+Received message 16 from site 2
+Updated receivedSequenceNumbers = [16 15 16 15 14 14 15 14 14 14]
+receivedSequenceNumbers = [16 15 16 15 14 14 15 14 14 14]
+receivedSequenceNumbers = [16 15 16 15 14 14 15 14 14 14]
+receivedSequenceNumbers = [16 15 16 15 14 14 15 14 14 14]
+receivedSequenceNumbers = [16 15 16 15 14 14 15 14 14 14]
+receivedSequenceNumbers = [16 15 16 15 14 14 15 14 14 14]
+receivedSequenceNumbers = [16 15 16 15 14 14 15 14 14 14]
+receivedSequenceNumbers = [16 15 16 15 14 14 15 14 14 14]
+receivedSequenceNumbers = [16 15 16 15 14 14 15 14 14 14]
+receivedSequenceNumbers = [16 15 16 15 14 14 15 14 14 14]
+Received message 15 from site 4
+Updated receivedSequenceNumbers = [16 15 16 15 15 14 15 14 14 14]
+receivedSequenceNumbers = [16 15 16 15 15 14 15 14 14 14]
+receivedSequenceNumbers = [16 15 16 15 15 14 15 14 14 14]
+Received message 15 from site 5
+Updated receivedSequenceNumbers = [16 15 16 15 15 15 15 14 14 14]
+receivedSequenceNumbers = [16 15 16 15 15 15 15 14 14 14]
+receivedSequenceNumbers = [16 15 16 15 15 15 15 14 14 14]
+Received token
+Executing critical section
+receivedSequenceNumbers = [16 15 16 15 15 15 15 14 14 14]
+Received message 16 from site 1
+Updated receivedSequenceNumbers = [16 16 16 15 15 15 15 14 14 14]
+receivedSequenceNumbers = [16 16 16 15 15 15 15 14 14 14]
+receivedSequenceNumbers = [16 16 16 15 15 15 15 14 14 14]
+receivedSequenceNumbers = [16 16 16 15 15 15 15 14 14 14]
+receivedSequenceNumbers = [16 16 16 15 15 15 15 14 14 14]
+Received message 17 from site 0
+Updated receivedSequenceNumbers = [17 16 16 15 15 15 15 14 14 14]
+receivedSequenceNumbers = [17 16 16 15 15 15 15 14 14 14]
+receivedSequenceNumbers = [17 16 16 15 15 15 15 14 14 14]
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [6 3 7 2 8 4 5 0 1]
+Executing non-critical section
+Sending token to site 6
+Token lock released
+receivedSequenceNumbers = [17 16 16 15 15 15 15 14 14 14]
+receivedSequenceNumbers = [17 16 16 15 15 15 15 14 14 14]
+receivedSequenceNumbers = [17 16 16 15 15 15 15 14 14 14]
+receivedSequenceNumbers = [17 16 16 15 15 15 15 14 14 14]
+receivedSequenceNumbers = [17 16 16 15 15 15 15 14 14 14]
+receivedSequenceNumbers = [17 16 16 15 15 15 15 14 14 14]
+receivedSequenceNumbers = [17 16 16 15 15 15 15 14 14 14]
+receivedSequenceNumbers = [17 16 16 15 15 15 15 14 14 14]
+Requesting critical section
+Sending message 15 to site 0
+Sending message 15 to site 1
+Sending message 15 to site 2
+Sending message 15 to site 3
+Sending message 15 to site 4
+Sending message 15 to site 5
+Sending message 15 to site 6
+Sending message 15 to site 7
+Sending message 15 to site 8
+Waiting for token
+receivedSequenceNumbers = [17 16 16 15 15 15 15 14 14 15]
+Received message 16 from site 6
+Updated receivedSequenceNumbers = [17 16 16 15 15 15 16 14 14 15]
+receivedSequenceNumbers = [17 16 16 15 15 15 16 14 14 15]
+receivedSequenceNumbers = [17 16 16 15 15 15 16 14 14 15]
+receivedSequenceNumbers = [17 16 16 15 15 15 16 14 14 15]
+receivedSequenceNumbers = [17 16 16 15 15 15 16 14 14 15]
+receivedSequenceNumbers = [17 16 16 15 15 15 16 14 14 15]
+receivedSequenceNumbers = [17 16 16 15 15 15 16 14 14 15]
+receivedSequenceNumbers = [17 16 16 15 15 15 16 14 14 15]
+receivedSequenceNumbers = [17 16 16 15 15 15 16 14 14 15]
+receivedSequenceNumbers = [17 16 16 15 15 15 16 14 14 15]
+receivedSequenceNumbers = [17 16 16 15 15 15 16 14 14 15]
+Received message 16 from site 3
+Updated receivedSequenceNumbers = [17 16 16 16 15 15 16 14 14 15]
+receivedSequenceNumbers = [17 16 16 16 15 15 16 14 14 15]
+receivedSequenceNumbers = [17 16 16 16 15 15 16 14 14 15]
+Received message 17 from site 2
+Updated receivedSequenceNumbers = [17 16 17 16 15 15 16 14 14 15]
+receivedSequenceNumbers = [17 16 17 16 15 15 16 14 14 15]
+Received message 15 from site 7
+Updated receivedSequenceNumbers = [17 16 17 16 15 15 16 15 14 15]
+receivedSequenceNumbers = [17 16 17 16 15 15 16 15 14 15]
+receivedSequenceNumbers = [17 16 17 16 15 15 16 15 14 15]
+receivedSequenceNumbers = [17 16 17 16 15 15 16 15 14 15]
+receivedSequenceNumbers = [17 16 17 16 15 15 16 15 14 15]
+receivedSequenceNumbers = [17 16 17 16 15 15 16 15 14 15]
+receivedSequenceNumbers = [17 16 17 16 15 15 16 15 14 15]
+receivedSequenceNumbers = [17 16 17 16 15 15 16 15 14 15]
+receivedSequenceNumbers = [17 16 17 16 15 15 16 15 14 15]
+receivedSequenceNumbers = [17 16 17 16 15 15 16 15 14 15]
+Received message 15 from site 8
+Updated receivedSequenceNumbers = [17 16 17 16 15 15 16 15 15 15]
+receivedSequenceNumbers = [17 16 17 16 15 15 16 15 15 15]
+receivedSequenceNumbers = [17 16 17 16 15 15 16 15 15 15]
+receivedSequenceNumbers = [17 16 17 16 15 15 16 15 15 15]
+receivedSequenceNumbers = [17 16 17 16 15 15 16 15 15 15]
+receivedSequenceNumbers = [17 16 17 16 15 15 16 15 15 15]
+receivedSequenceNumbers = [17 16 17 16 15 15 16 15 15 15]
+receivedSequenceNumbers = [17 16 17 16 15 15 16 15 15 15]
+receivedSequenceNumbers = [17 16 17 16 15 15 16 15 15 15]
+receivedSequenceNumbers = [17 16 17 16 15 15 16 15 15 15]
+receivedSequenceNumbers = [17 16 17 16 15 15 16 15 15 15]
+receivedSequenceNumbers = [17 16 17 16 15 15 16 15 15 15]
+receivedSequenceNumbers = [17 16 17 16 15 15 16 15 15 15]
+Received message 18 from site 0
+Updated receivedSequenceNumbers = [18 16 17 16 15 15 16 15 15 15]
+receivedSequenceNumbers = [18 16 17 16 15 15 16 15 15 15]
+receivedSequenceNumbers = [18 16 17 16 15 15 16 15 15 15]
+receivedSequenceNumbers = [18 16 17 16 15 15 16 15 15 15]
+Received message 16 from site 4
+Updated receivedSequenceNumbers = [18 16 17 16 16 15 16 15 15 15]
+receivedSequenceNumbers = [18 16 17 16 16 15 16 15 15 15]
+receivedSequenceNumbers = [18 16 17 16 16 15 16 15 15 15]
+Received message 16 from site 5
+Updated receivedSequenceNumbers = [18 16 17 16 16 16 16 15 15 15]
+receivedSequenceNumbers = [18 16 17 16 16 16 16 15 15 15]
+receivedSequenceNumbers = [18 16 17 16 16 16 16 15 15 15]
+receivedSequenceNumbers = [18 16 17 16 16 16 16 15 15 15]
+receivedSequenceNumbers = [18 16 17 16 16 16 16 15 15 15]
+receivedSequenceNumbers = [18 16 17 16 16 16 16 15 15 15]
+receivedSequenceNumbers = [18 16 17 16 16 16 16 15 15 15]
+Received token
+Executing critical section
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [3 2 7 8 0 4 5]
+Executing non-critical section
+Sending token to site 3
+Token lock released
+receivedSequenceNumbers = [18 16 17 16 16 16 16 15 15 15]
+receivedSequenceNumbers = [18 16 17 16 16 16 16 15 15 15]
+Received message 17 from site 1
+Updated receivedSequenceNumbers = [18 17 17 16 16 16 16 15 15 15]
+receivedSequenceNumbers = [18 17 17 16 16 16 16 15 15 15]
+Received message 17 from site 6
+Updated receivedSequenceNumbers = [18 17 17 16 16 16 17 15 15 15]
+receivedSequenceNumbers = [18 17 17 16 16 16 17 15 15 15]
+receivedSequenceNumbers = [18 17 17 16 16 16 17 15 15 15]
+receivedSequenceNumbers = [18 17 17 16 16 16 17 15 15 15]
+Requesting critical section
+Sending message 16 to site 0
+Sending message 16 to site 1
+Sending message 16 to site 2
+Sending message 16 to site 3
+Sending message 16 to site 4
+Sending message 16 to site 5
+Sending message 16 to site 6
+Sending message 16 to site 7
+Sending message 16 to site 8
+Waiting for token
+receivedSequenceNumbers = [18 17 17 16 16 16 17 15 15 16]
+receivedSequenceNumbers = [18 17 17 16 16 16 17 15 15 16]
+receivedSequenceNumbers = [18 17 17 16 16 16 17 15 15 16]
+receivedSequenceNumbers = [18 17 17 16 16 16 17 15 15 16]
+receivedSequenceNumbers = [18 17 17 16 16 16 17 15 15 16]
+receivedSequenceNumbers = [18 17 17 16 16 16 17 15 15 16]
+Received message 17 from site 3
+Updated receivedSequenceNumbers = [18 17 17 17 16 16 17 15 15 16]
+receivedSequenceNumbers = [18 17 17 17 16 16 17 15 15 16]
+receivedSequenceNumbers = [18 17 17 17 16 16 17 15 15 16]
+receivedSequenceNumbers = [18 17 17 17 16 16 17 15 15 16]
+receivedSequenceNumbers = [18 17 17 17 16 16 17 15 15 16]
+receivedSequenceNumbers = [18 17 17 17 16 16 17 15 15 16]
+Received message 18 from site 2
+Updated receivedSequenceNumbers = [18 17 18 17 16 16 17 15 15 16]
+receivedSequenceNumbers = [18 17 18 17 16 16 17 15 15 16]
+receivedSequenceNumbers = [18 17 18 17 16 16 17 15 15 16]
+Received message 16 from site 7
+Updated receivedSequenceNumbers = [18 17 18 17 16 16 17 16 15 16]
+receivedSequenceNumbers = [18 17 18 17 16 16 17 16 15 16]
+receivedSequenceNumbers = [18 17 18 17 16 16 17 16 15 16]
+receivedSequenceNumbers = [18 17 18 17 16 16 17 16 15 16]
+Received message 16 from site 8
+Updated receivedSequenceNumbers = [18 17 18 17 16 16 17 16 16 16]
+receivedSequenceNumbers = [18 17 18 17 16 16 17 16 16 16]
+receivedSequenceNumbers = [18 17 18 17 16 16 17 16 16 16]
+receivedSequenceNumbers = [18 17 18 17 16 16 17 16 16 16]
+receivedSequenceNumbers = [18 17 18 17 16 16 17 16 16 16]
+receivedSequenceNumbers = [18 17 18 17 16 16 17 16 16 16]
+receivedSequenceNumbers = [18 17 18 17 16 16 17 16 16 16]
+receivedSequenceNumbers = [18 17 18 17 16 16 17 16 16 16]
+receivedSequenceNumbers = [18 17 18 17 16 16 17 16 16 16]
+receivedSequenceNumbers = [18 17 18 17 16 16 17 16 16 16]
+Received message 19 from site 0
+Updated receivedSequenceNumbers = [19 17 18 17 16 16 17 16 16 16]
+receivedSequenceNumbers = [19 17 18 17 16 16 17 16 16 16]
+receivedSequenceNumbers = [19 17 18 17 16 16 17 16 16 16]
+receivedSequenceNumbers = [19 17 18 17 16 16 17 16 16 16]
+receivedSequenceNumbers = [19 17 18 17 16 16 17 16 16 16]
+receivedSequenceNumbers = [19 17 18 17 16 16 17 16 16 16]
+receivedSequenceNumbers = [19 17 18 17 16 16 17 16 16 16]
+receivedSequenceNumbers = [19 17 18 17 16 16 17 16 16 16]
+receivedSequenceNumbers = [19 17 18 17 16 16 17 16 16 16]
+Received message 17 from site 4
+Updated receivedSequenceNumbers = [19 17 18 17 17 16 17 16 16 16]
+receivedSequenceNumbers = [19 17 18 17 17 16 17 16 16 16]
+receivedSequenceNumbers = [19 17 18 17 17 16 17 16 16 16]
+receivedSequenceNumbers = [19 17 18 17 17 16 17 16 16 16]
+receivedSequenceNumbers = [19 17 18 17 17 16 17 16 16 16]
+receivedSequenceNumbers = [19 17 18 17 17 16 17 16 16 16]
+receivedSequenceNumbers = [19 17 18 17 17 16 17 16 16 16]
+receivedSequenceNumbers = [19 17 18 17 17 16 17 16 16 16]
+receivedSequenceNumbers = [19 17 18 17 17 16 17 16 16 16]
+Received message 17 from site 5
+Updated receivedSequenceNumbers = [19 17 18 17 17 17 17 16 16 16]
+receivedSequenceNumbers = [19 17 18 17 17 17 17 16 16 16]
+Received message 18 from site 1
+Updated receivedSequenceNumbers = [19 18 18 17 17 17 17 16 16 16]
+receivedSequenceNumbers = [19 18 18 17 17 17 17 16 16 16]
+receivedSequenceNumbers = [19 18 18 17 17 17 17 16 16 16]
+Received token
+Executing critical section
+receivedSequenceNumbers = [19 18 18 17 17 17 17 16 16 16]
+receivedSequenceNumbers = [19 18 18 17 17 17 17 16 16 16]
+receivedSequenceNumbers = [19 18 18 17 17 17 17 16 16 16]
+receivedSequenceNumbers = [19 18 18 17 17 17 17 16 16 16]
+receivedSequenceNumbers = [19 18 18 17 17 17 17 16 16 16]
+Received message 18 from site 6
+Updated receivedSequenceNumbers = [19 18 18 17 17 17 18 16 16 16]
+receivedSequenceNumbers = [19 18 18 17 17 17 18 16 16 16]
+receivedSequenceNumbers = [19 18 18 17 17 17 18 16 16 16]
+receivedSequenceNumbers = [19 18 18 17 17 17 18 16 16 16]
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [3 2 7 8 0 4 1 5 6]
+Executing non-critical section
+Sending token to site 3
+Token lock released
+receivedSequenceNumbers = [19 18 18 17 17 17 18 16 16 16]
+receivedSequenceNumbers = [19 18 18 17 17 17 18 16 16 16]
+Received message 18 from site 3
+Updated receivedSequenceNumbers = [19 18 18 18 17 17 18 16 16 16]
+receivedSequenceNumbers = [19 18 18 18 17 17 18 16 16 16]
+receivedSequenceNumbers = [19 18 18 18 17 17 18 16 16 16]
+receivedSequenceNumbers = [19 18 18 18 17 17 18 16 16 16]
+receivedSequenceNumbers = [19 18 18 18 17 17 18 16 16 16]
+receivedSequenceNumbers = [19 18 18 18 17 17 18 16 16 16]
+Requesting critical section
+Sending message 17 to site 0
+Sending message 17 to site 1
+Sending message 17 to site 2
+Sending message 17 to site 3
+Sending message 17 to site 4
+Sending message 17 to site 5
+Sending message 17 to site 6
+Sending message 17 to site 7
+Sending message 17 to site 8
+Waiting for token
+receivedSequenceNumbers = [19 18 18 18 17 17 18 16 16 17]
+receivedSequenceNumbers = [19 18 18 18 17 17 18 16 16 17]
+receivedSequenceNumbers = [19 18 18 18 17 17 18 16 16 17]
+receivedSequenceNumbers = [19 18 18 18 17 17 18 16 16 17]
+receivedSequenceNumbers = [19 18 18 18 17 17 18 16 16 17]
+receivedSequenceNumbers = [19 18 18 18 17 17 18 16 16 17]
+Received message 19 from site 2
+Updated receivedSequenceNumbers = [19 18 19 18 17 17 18 16 16 17]
+receivedSequenceNumbers = [19 18 19 18 17 17 18 16 16 17]
+receivedSequenceNumbers = [19 18 19 18 17 17 18 16 16 17]
+receivedSequenceNumbers = [19 18 19 18 17 17 18 16 16 17]
+receivedSequenceNumbers = [19 18 19 18 17 17 18 16 16 17]
+Received message 17 from site 7
+Updated receivedSequenceNumbers = [19 18 19 18 17 17 18 17 16 17]
+receivedSequenceNumbers = [19 18 19 18 17 17 18 17 16 17]
+receivedSequenceNumbers = [19 18 19 18 17 17 18 17 16 17]
+receivedSequenceNumbers = [19 18 19 18 17 17 18 17 16 17]
+receivedSequenceNumbers = [19 18 19 18 17 17 18 17 16 17]
+receivedSequenceNumbers = [19 18 19 18 17 17 18 17 16 17]
+receivedSequenceNumbers = [19 18 19 18 17 17 18 17 16 17]
+receivedSequenceNumbers = [19 18 19 18 17 17 18 17 16 17]
+receivedSequenceNumbers = [19 18 19 18 17 17 18 17 16 17]
+receivedSequenceNumbers = [19 18 19 18 17 17 18 17 16 17]
+Received message 17 from site 8
+Updated receivedSequenceNumbers = [19 18 19 18 17 17 18 17 17 17]
+receivedSequenceNumbers = [19 18 19 18 17 17 18 17 17 17]
+receivedSequenceNumbers = [19 18 19 18 17 17 18 17 17 17]
+receivedSequenceNumbers = [19 18 19 18 17 17 18 17 17 17]
+Received message 20 from site 0
+Updated receivedSequenceNumbers = [20 18 19 18 17 17 18 17 17 17]
+receivedSequenceNumbers = [20 18 19 18 17 17 18 17 17 17]
+receivedSequenceNumbers = [20 18 19 18 17 17 18 17 17 17]
+receivedSequenceNumbers = [20 18 19 18 17 17 18 17 17 17]
+receivedSequenceNumbers = [20 18 19 18 17 17 18 17 17 17]
+Received message 18 from site 4
+Updated receivedSequenceNumbers = [20 18 19 18 18 17 18 17 17 17]
+receivedSequenceNumbers = [20 18 19 18 18 17 18 17 17 17]
+receivedSequenceNumbers = [20 18 19 18 18 17 18 17 17 17]
+receivedSequenceNumbers = [20 18 19 18 18 17 18 17 17 17]
+receivedSequenceNumbers = [20 18 19 18 18 17 18 17 17 17]
+receivedSequenceNumbers = [20 18 19 18 18 17 18 17 17 17]
+receivedSequenceNumbers = [20 18 19 18 18 17 18 17 17 17]
+receivedSequenceNumbers = [20 18 19 18 18 17 18 17 17 17]
+receivedSequenceNumbers = [20 18 19 18 18 17 18 17 17 17]
+Received message 18 from site 5
+Updated receivedSequenceNumbers = [20 18 19 18 18 18 18 17 17 17]
+receivedSequenceNumbers = [20 18 19 18 18 18 18 17 17 17]
+Received token
+Executing critical section
+Received message 19 from site 3
+Updated receivedSequenceNumbers = [20 18 19 19 18 18 18 17 17 17]
+receivedSequenceNumbers = [20 18 19 19 18 18 18 17 17 17]
+receivedSequenceNumbers = [20 18 19 19 18 18 18 17 17 17]
+Releasing critical section
+receivedSequenceNumbers = [20 18 19 19 18 18 18 17 17 17]
+Updated serviceQueue = [2 7 0 8 4 5 3]
+Completed cycle
+Sending token to site 2
+Executing non-critical section
+Token lock released
+Received message 19 from site 6
+Updated receivedSequenceNumbers = [20 18 19 19 18 18 19 17 17 17]
+Received message 19 from site 1
+Updated receivedSequenceNumbers = [20 19 19 19 18 18 19 17 17 17]
+receivedSequenceNumbers = [20 19 19 19 18 18 19 17 17 17]
+receivedSequenceNumbers = [20 19 19 19 18 18 19 17 17 17]
+receivedSequenceNumbers = [20 19 19 19 18 18 19 17 17 17]
+receivedSequenceNumbers = [20 19 19 19 18 18 19 17 17 17]
+receivedSequenceNumbers = [20 19 19 19 18 18 19 17 17 17]
+Requesting critical section
+Sending message 18 to site 0
+Sending message 18 to site 1
+Sending message 18 to site 2
+Sending message 18 to site 3
+Sending message 18 to site 4
+Sending message 18 to site 5
+Sending message 18 to site 6
+Sending message 18 to site 7
+Sending message 18 to site 8
+Waiting for token
+receivedSequenceNumbers = [20 19 19 19 18 18 19 17 17 18]
+receivedSequenceNumbers = [20 19 19 19 18 18 19 17 17 18]
+receivedSequenceNumbers = [20 19 19 19 18 18 19 17 17 18]
+receivedSequenceNumbers = [20 19 19 19 18 18 19 17 17 18]
+receivedSequenceNumbers = [20 19 19 19 18 18 19 17 17 18]
+receivedSequenceNumbers = [20 19 19 19 18 18 19 17 17 18]
+receivedSequenceNumbers = [20 19 19 19 18 18 19 17 17 18]
+receivedSequenceNumbers = [20 19 19 19 18 18 19 17 17 18]
+receivedSequenceNumbers = [20 19 19 19 18 18 19 17 17 18]
+receivedSequenceNumbers = [20 19 19 19 18 18 19 17 17 18]
+Received message 18 from site 8
+Updated receivedSequenceNumbers = [20 19 19 19 18 18 19 17 18 18]
+receivedSequenceNumbers = [20 19 19 19 18 18 19 17 18 18]
+Received message 20 from site 2
+Updated receivedSequenceNumbers = [20 19 20 19 18 18 19 17 18 18]
+receivedSequenceNumbers = [20 19 20 19 18 18 19 17 18 18]
+receivedSequenceNumbers = [20 19 20 19 18 18 19 17 18 18]
+receivedSequenceNumbers = [20 19 20 19 18 18 19 17 18 18]
+Received message 21 from site 0
+Updated receivedSequenceNumbers = [21 19 20 19 18 18 19 17 18 18]
+receivedSequenceNumbers = [21 19 20 19 18 18 19 17 18 18]
+Received message 19 from site 4
+Updated receivedSequenceNumbers = [21 19 20 19 19 18 19 17 18 18]
+receivedSequenceNumbers = [21 19 20 19 19 18 19 17 18 18]
+Received message 18 from site 7
+Updated receivedSequenceNumbers = [21 19 20 19 19 18 19 18 18 18]
+receivedSequenceNumbers = [21 19 20 19 19 18 19 18 18 18]
+receivedSequenceNumbers = [21 19 20 19 19 18 19 18 18 18]
+receivedSequenceNumbers = [21 19 20 19 19 18 19 18 18 18]
+receivedSequenceNumbers = [21 19 20 19 19 18 19 18 18 18]
+receivedSequenceNumbers = [21 19 20 19 19 18 19 18 18 18]
+receivedSequenceNumbers = [21 19 20 19 19 18 19 18 18 18]
+receivedSequenceNumbers = [21 19 20 19 19 18 19 18 18 18]
+receivedSequenceNumbers = [21 19 20 19 19 18 19 18 18 18]
+receivedSequenceNumbers = [21 19 20 19 19 18 19 18 18 18]
+receivedSequenceNumbers = [21 19 20 19 19 18 19 18 18 18]
+Received message 19 from site 5
+Updated receivedSequenceNumbers = [21 19 20 19 19 19 19 18 18 18]
+receivedSequenceNumbers = [21 19 20 19 19 19 19 18 18 18]
+receivedSequenceNumbers = [21 19 20 19 19 19 19 18 18 18]
+receivedSequenceNumbers = [21 19 20 19 19 19 19 18 18 18]
+receivedSequenceNumbers = [21 19 20 19 19 19 19 18 18 18]
+receivedSequenceNumbers = [21 19 20 19 19 19 19 18 18 18]
+receivedSequenceNumbers = [21 19 20 19 19 19 19 18 18 18]
+Received message 20 from site 3
+Updated receivedSequenceNumbers = [21 19 20 20 19 19 19 18 18 18]
+receivedSequenceNumbers = [21 19 20 20 19 19 19 18 18 18]
+receivedSequenceNumbers = [21 19 20 20 19 19 19 18 18 18]
+receivedSequenceNumbers = [21 19 20 20 19 19 19 18 18 18]
+receivedSequenceNumbers = [21 19 20 20 19 19 19 18 18 18]
+receivedSequenceNumbers = [21 19 20 20 19 19 19 18 18 18]
+receivedSequenceNumbers = [21 19 20 20 19 19 19 18 18 18]
+Received token
+Executing critical section
+receivedSequenceNumbers = [21 19 20 20 19 19 19 18 18 18]
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [2 8 0 4 7 5 3]
+Executing non-critical section
+Sending token to site 2
+Token lock released
+receivedSequenceNumbers = [21 19 20 20 19 19 19 18 18 18]
+Requesting critical section
+Sending message 19 to site 0
+Sending message 19 to site 1
+Sending message 19 to site 2
+Sending message 19 to site 3
+Sending message 19 to site 4
+Sending message 19 to site 5
+Sending message 19 to site 6
+Sending message 19 to site 7
+Sending message 19 to site 8
+Waiting for token
+receivedSequenceNumbers = [21 19 20 20 19 19 19 18 18 19]
+Received message 20 from site 6
+Updated receivedSequenceNumbers = [21 19 20 20 19 19 20 18 18 19]
+receivedSequenceNumbers = [21 19 20 20 19 19 20 18 18 19]
+receivedSequenceNumbers = [21 19 20 20 19 19 20 18 18 19]
+receivedSequenceNumbers = [21 19 20 20 19 19 20 18 18 19]
+receivedSequenceNumbers = [21 19 20 20 19 19 20 18 18 19]
+Received message 20 from site 1
+Updated receivedSequenceNumbers = [21 20 20 20 19 19 20 18 18 19]
+receivedSequenceNumbers = [21 20 20 20 19 19 20 18 18 19]
+receivedSequenceNumbers = [21 20 20 20 19 19 20 18 18 19]
+receivedSequenceNumbers = [21 20 20 20 19 19 20 18 18 19]
+receivedSequenceNumbers = [21 20 20 20 19 19 20 18 18 19]
+receivedSequenceNumbers = [21 20 20 20 19 19 20 18 18 19]
+receivedSequenceNumbers = [21 20 20 20 19 19 20 18 18 19]
+receivedSequenceNumbers = [21 20 20 20 19 19 20 18 18 19]
+Received message 21 from site 2
+Updated receivedSequenceNumbers = [21 20 21 20 19 19 20 18 18 19]
+Received message 19 from site 8
+Updated receivedSequenceNumbers = [21 20 21 20 19 19 20 18 19 19]
+receivedSequenceNumbers = [21 20 21 20 19 19 20 18 19 19]
+receivedSequenceNumbers = [21 20 21 20 19 19 20 18 19 19]
+receivedSequenceNumbers = [21 20 21 20 19 19 20 18 19 19]
+receivedSequenceNumbers = [21 20 21 20 19 19 20 18 19 19]
+Received message 22 from site 0
+Updated receivedSequenceNumbers = [22 20 21 20 19 19 20 18 19 19]
+receivedSequenceNumbers = [22 20 21 20 19 19 20 18 19 19]
+receivedSequenceNumbers = [22 20 21 20 19 19 20 18 19 19]
+receivedSequenceNumbers = [22 20 21 20 19 19 20 18 19 19]
+Received message 20 from site 4
+Updated receivedSequenceNumbers = [22 20 21 20 20 19 20 18 19 19]
+receivedSequenceNumbers = [22 20 21 20 20 19 20 18 19 19]
+receivedSequenceNumbers = [22 20 21 20 20 19 20 18 19 19]
+receivedSequenceNumbers = [22 20 21 20 20 19 20 18 19 19]
+receivedSequenceNumbers = [22 20 21 20 20 19 20 18 19 19]
+receivedSequenceNumbers = [22 20 21 20 20 19 20 18 19 19]
+receivedSequenceNumbers = [22 20 21 20 20 19 20 18 19 19]
+receivedSequenceNumbers = [22 20 21 20 20 19 20 18 19 19]
+receivedSequenceNumbers = [22 20 21 20 20 19 20 18 19 19]
+receivedSequenceNumbers = [22 20 21 20 20 19 20 18 19 19]
+receivedSequenceNumbers = [22 20 21 20 20 19 20 18 19 19]
+receivedSequenceNumbers = [22 20 21 20 20 19 20 18 19 19]
+receivedSequenceNumbers = [22 20 21 20 20 19 20 18 19 19]
+receivedSequenceNumbers = [22 20 21 20 20 19 20 18 19 19]
+receivedSequenceNumbers = [22 20 21 20 20 19 20 18 19 19]
+Received message 19 from site 7
+Updated receivedSequenceNumbers = [22 20 21 20 20 19 20 19 19 19]
+receivedSequenceNumbers = [22 20 21 20 20 19 20 19 19 19]
+Received message 20 from site 5
+Updated receivedSequenceNumbers = [22 20 21 20 20 20 20 19 19 19]
+receivedSequenceNumbers = [22 20 21 20 20 20 20 19 19 19]
+Received message 21 from site 3
+Updated receivedSequenceNumbers = [22 20 21 21 20 20 20 19 19 19]
+receivedSequenceNumbers = [22 20 21 21 20 20 20 19 19 19]
+receivedSequenceNumbers = [22 20 21 21 20 20 20 19 19 19]
+receivedSequenceNumbers = [22 20 21 21 20 20 20 19 19 19]
+receivedSequenceNumbers = [22 20 21 21 20 20 20 19 19 19]
+receivedSequenceNumbers = [22 20 21 21 20 20 20 19 19 19]
+receivedSequenceNumbers = [22 20 21 21 20 20 20 19 19 19]
+receivedSequenceNumbers = [22 20 21 21 20 20 20 19 19 19]
+Received token
+Executing critical section
+receivedSequenceNumbers = [22 20 21 21 20 20 20 19 19 19]
+Received message 21 from site 6
+Updated receivedSequenceNumbers = [22 20 21 21 20 20 21 19 19 19]
+receivedSequenceNumbers = [22 20 21 21 20 20 21 19 19 19]
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [1 0 2 8 4 5 7 3 6]
+Executing non-critical section
+Sending token to site 1
+Token lock released
+receivedSequenceNumbers = [22 20 21 21 20 20 21 19 19 19]
+receivedSequenceNumbers = [22 20 21 21 20 20 21 19 19 19]
+receivedSequenceNumbers = [22 20 21 21 20 20 21 19 19 19]
+receivedSequenceNumbers = [22 20 21 21 20 20 21 19 19 19]
+receivedSequenceNumbers = [22 20 21 21 20 20 21 19 19 19]
+receivedSequenceNumbers = [22 20 21 21 20 20 21 19 19 19]
+receivedSequenceNumbers = [22 20 21 21 20 20 21 19 19 19]
+receivedSequenceNumbers = [22 20 21 21 20 20 21 19 19 19]
+receivedSequenceNumbers = [22 20 21 21 20 20 21 19 19 19]
+Requesting critical section
+Sending message 20 to site 0
+Sending message 20 to site 1
+Sending message 20 to site 2
+Sending message 20 to site 3
+Sending message 20 to site 4
+Sending message 20 to site 5
+Sending message 20 to site 6
+Sending message 20 to site 7
+Sending message 20 to site 8
+Waiting for token
+receivedSequenceNumbers = [22 20 21 21 20 20 21 19 19 20]
+receivedSequenceNumbers = [22 20 21 21 20 20 21 19 19 20]
+Received message 21 from site 1
+Updated receivedSequenceNumbers = [22 21 21 21 20 20 21 19 19 20]
+receivedSequenceNumbers = [22 21 21 21 20 20 21 19 19 20]
+receivedSequenceNumbers = [22 21 21 21 20 20 21 19 19 20]
+receivedSequenceNumbers = [22 21 21 21 20 20 21 19 19 20]
+receivedSequenceNumbers = [22 21 21 21 20 20 21 19 19 20]
+receivedSequenceNumbers = [22 21 21 21 20 20 21 19 19 20]
+Received message 23 from site 0
+Updated receivedSequenceNumbers = [23 21 21 21 20 20 21 19 19 20]
+receivedSequenceNumbers = [23 21 21 21 20 20 21 19 19 20]
+receivedSequenceNumbers = [23 21 21 21 20 20 21 19 19 20]
+receivedSequenceNumbers = [23 21 21 21 20 20 21 19 19 20]
+receivedSequenceNumbers = [23 21 21 21 20 20 21 19 19 20]
+receivedSequenceNumbers = [23 21 21 21 20 20 21 19 19 20]
+Received message 22 from site 2
+Updated receivedSequenceNumbers = [23 21 22 21 20 20 21 19 19 20]
+receivedSequenceNumbers = [23 21 22 21 20 20 21 19 19 20]
+receivedSequenceNumbers = [23 21 22 21 20 20 21 19 19 20]
+receivedSequenceNumbers = [23 21 22 21 20 20 21 19 19 20]
+receivedSequenceNumbers = [23 21 22 21 20 20 21 19 19 20]
+Received message 20 from site 8
+Updated receivedSequenceNumbers = [23 21 22 21 20 20 21 19 20 20]
+Received message 21 from site 5
+Updated receivedSequenceNumbers = [23 21 22 21 20 21 21 19 20 20]
+receivedSequenceNumbers = [23 21 22 21 20 21 21 19 20 20]
+receivedSequenceNumbers = [23 21 22 21 20 21 21 19 20 20]
+Received message 21 from site 4
+Updated receivedSequenceNumbers = [23 21 22 21 21 21 21 19 20 20]
+receivedSequenceNumbers = [23 21 22 21 21 21 21 19 20 20]
+receivedSequenceNumbers = [23 21 22 21 21 21 21 19 20 20]
+receivedSequenceNumbers = [23 21 22 21 21 21 21 19 20 20]
+receivedSequenceNumbers = [23 21 22 21 21 21 21 19 20 20]
+receivedSequenceNumbers = [23 21 22 21 21 21 21 19 20 20]
+receivedSequenceNumbers = [23 21 22 21 21 21 21 19 20 20]
+Received message 20 from site 7
+Updated receivedSequenceNumbers = [23 21 22 21 21 21 21 20 20 20]
+receivedSequenceNumbers = [23 21 22 21 21 21 21 20 20 20]
+receivedSequenceNumbers = [23 21 22 21 21 21 21 20 20 20]
+receivedSequenceNumbers = [23 21 22 21 21 21 21 20 20 20]
+receivedSequenceNumbers = [23 21 22 21 21 21 21 20 20 20]
+receivedSequenceNumbers = [23 21 22 21 21 21 21 20 20 20]
+receivedSequenceNumbers = [23 21 22 21 21 21 21 20 20 20]
+receivedSequenceNumbers = [23 21 22 21 21 21 21 20 20 20]
+receivedSequenceNumbers = [23 21 22 21 21 21 21 20 20 20]
+receivedSequenceNumbers = [23 21 22 21 21 21 21 20 20 20]
+receivedSequenceNumbers = [23 21 22 21 21 21 21 20 20 20]
+receivedSequenceNumbers = [23 21 22 21 21 21 21 20 20 20]
+Received message 22 from site 3
+Updated receivedSequenceNumbers = [23 21 22 22 21 21 21 20 20 20]
+receivedSequenceNumbers = [23 21 22 22 21 21 21 20 20 20]
+receivedSequenceNumbers = [23 21 22 22 21 21 21 20 20 20]
+receivedSequenceNumbers = [23 21 22 22 21 21 21 20 20 20]
+Received message 22 from site 6
+Updated receivedSequenceNumbers = [23 21 22 22 21 21 22 20 20 20]
+receivedSequenceNumbers = [23 21 22 22 21 21 22 20 20 20]
+receivedSequenceNumbers = [23 21 22 22 21 21 22 20 20 20]
+receivedSequenceNumbers = [23 21 22 22 21 21 22 20 20 20]
+Received token
+Executing critical section
+receivedSequenceNumbers = [23 21 22 22 21 21 22 20 20 20]
+receivedSequenceNumbers = [23 21 22 22 21 21 22 20 20 20]
+receivedSequenceNumbers = [23 21 22 22 21 21 22 20 20 20]
+receivedSequenceNumbers = [23 21 22 22 21 21 22 20 20 20]
+Received message 22 from site 1
+Updated receivedSequenceNumbers = [23 22 22 22 21 21 22 20 20 20]
+receivedSequenceNumbers = [23 22 22 22 21 21 22 20 20 20]
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [0 2 4 5 8 7 3 6 1]
+Executing non-critical section
+Sending token to site 0
+Token lock released
+receivedSequenceNumbers = [23 22 22 22 21 21 22 20 20 20]
+receivedSequenceNumbers = [23 22 22 22 21 21 22 20 20 20]
+receivedSequenceNumbers = [23 22 22 22 21 21 22 20 20 20]
+receivedSequenceNumbers = [23 22 22 22 21 21 22 20 20 20]
+receivedSequenceNumbers = [23 22 22 22 21 21 22 20 20 20]
+Requesting critical section
+Sending message 21 to site 0
+Sending message 21 to site 1
+Sending message 21 to site 2
+Sending message 21 to site 3
+Sending message 21 to site 4
+Sending message 21 to site 5
+Sending message 21 to site 6
+Sending message 21 to site 7
+Sending message 21 to site 8
+Waiting for token
+receivedSequenceNumbers = [23 22 22 22 21 21 22 20 20 21]
+receivedSequenceNumbers = [23 22 22 22 21 21 22 20 20 21]
+receivedSequenceNumbers = [23 22 22 22 21 21 22 20 20 21]
+Received message 24 from site 0
+Updated receivedSequenceNumbers = [24 22 22 22 21 21 22 20 20 21]
+receivedSequenceNumbers = [24 22 22 22 21 21 22 20 20 21]
+receivedSequenceNumbers = [24 22 22 22 21 21 22 20 20 21]
+receivedSequenceNumbers = [24 22 22 22 21 21 22 20 20 21]
+receivedSequenceNumbers = [24 22 22 22 21 21 22 20 20 21]
+receivedSequenceNumbers = [24 22 22 22 21 21 22 20 20 21]
+receivedSequenceNumbers = [24 22 22 22 21 21 22 20 20 21]
+Received message 23 from site 2
+Updated receivedSequenceNumbers = [24 22 23 22 21 21 22 20 20 21]
+receivedSequenceNumbers = [24 22 23 22 21 21 22 20 20 21]
+receivedSequenceNumbers = [24 22 23 22 21 21 22 20 20 21]
+receivedSequenceNumbers = [24 22 23 22 21 21 22 20 20 21]
+receivedSequenceNumbers = [24 22 23 22 21 21 22 20 20 21]
+receivedSequenceNumbers = [24 22 23 22 21 21 22 20 20 21]
+receivedSequenceNumbers = [24 22 23 22 21 21 22 20 20 21]
+receivedSequenceNumbers = [24 22 23 22 21 21 22 20 20 21]
+receivedSequenceNumbers = [24 22 23 22 21 21 22 20 20 21]
+receivedSequenceNumbers = [24 22 23 22 21 21 22 20 20 21]
+receivedSequenceNumbers = [24 22 23 22 21 21 22 20 20 21]
+receivedSequenceNumbers = [24 22 23 22 21 21 22 20 20 21]
+receivedSequenceNumbers = [24 22 23 22 21 21 22 20 20 21]
+receivedSequenceNumbers = [24 22 23 22 21 21 22 20 20 21]
+Received message 22 from site 4
+Updated receivedSequenceNumbers = [24 22 23 22 22 21 22 20 20 21]
+receivedSequenceNumbers = [24 22 23 22 22 21 22 20 20 21]
+receivedSequenceNumbers = [24 22 23 22 22 21 22 20 20 21]
+Received message 22 from site 5
+Updated receivedSequenceNumbers = [24 22 23 22 22 22 22 20 20 21]
+Received message 21 from site 8
+Updated receivedSequenceNumbers = [24 22 23 22 22 22 22 20 21 21]
+Received message 21 from site 7
+Updated receivedSequenceNumbers = [24 22 23 22 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 22 23 22 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 22 23 22 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 22 23 22 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 22 23 22 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 22 23 22 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 22 23 22 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 22 23 22 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 22 23 22 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 22 23 22 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 22 23 22 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 22 23 22 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 22 23 22 22 22 22 21 21 21]
+Received message 23 from site 3
+Updated receivedSequenceNumbers = [24 22 23 23 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 22 23 23 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 22 23 23 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 22 23 23 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 22 23 23 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 22 23 23 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 22 23 23 22 22 22 21 21 21]
+Received message 23 from site 1
+Updated receivedSequenceNumbers = [24 23 23 23 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 23 23 23 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 23 23 23 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 23 23 23 22 22 22 21 21 21]
+Received token
+Executing critical section
+receivedSequenceNumbers = [24 23 23 23 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 23 23 23 22 22 22 21 21 21]
+receivedSequenceNumbers = [24 23 23 23 22 22 22 21 21 21]
+Received message 23 from site 6
+Updated receivedSequenceNumbers = [24 23 23 23 22 22 23 21 21 21]
+receivedSequenceNumbers = [24 23 23 23 22 22 23 21 21 21]
+Received message 25 from site 0
+Updated receivedSequenceNumbers = [25 23 23 23 22 22 23 21 21 21]
+receivedSequenceNumbers = [25 23 23 23 22 22 23 21 21 21]
+receivedSequenceNumbers = [25 23 23 23 22 22 23 21 21 21]
+receivedSequenceNumbers = [25 23 23 23 22 22 23 21 21 21]
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [2 4 5 7 8 3 1 0 6]
+Executing non-critical section
+Sending token to site 2
+Token lock released
+receivedSequenceNumbers = [25 23 23 23 22 22 23 21 21 21]
+receivedSequenceNumbers = [25 23 23 23 22 22 23 21 21 21]
+receivedSequenceNumbers = [25 23 23 23 22 22 23 21 21 21]
+receivedSequenceNumbers = [25 23 23 23 22 22 23 21 21 21]
+Received message 24 from site 2
+Updated receivedSequenceNumbers = [25 23 24 23 22 22 23 21 21 21]
+receivedSequenceNumbers = [25 23 24 23 22 22 23 21 21 21]
+Received message 23 from site 4
+Updated receivedSequenceNumbers = [25 23 24 23 23 22 23 21 21 21]
+receivedSequenceNumbers = [25 23 24 23 23 22 23 21 21 21]
+receivedSequenceNumbers = [25 23 24 23 23 22 23 21 21 21]
+Requesting critical section
+Sending message 22 to site 0
+Sending message 22 to site 1
+Sending message 22 to site 2
+Sending message 22 to site 3
+Sending message 22 to site 4
+Sending message 22 to site 5
+Sending message 22 to site 6
+Sending message 22 to site 7
+Sending message 22 to site 8
+Waiting for token
+receivedSequenceNumbers = [25 23 24 23 23 22 23 21 21 22]
+receivedSequenceNumbers = [25 23 24 23 23 22 23 21 21 22]
+receivedSequenceNumbers = [25 23 24 23 23 22 23 21 21 22]
+receivedSequenceNumbers = [25 23 24 23 23 22 23 21 21 22]
+receivedSequenceNumbers = [25 23 24 23 23 22 23 21 21 22]
+receivedSequenceNumbers = [25 23 24 23 23 22 23 21 21 22]
+receivedSequenceNumbers = [25 23 24 23 23 22 23 21 21 22]
+Received message 23 from site 5
+Updated receivedSequenceNumbers = [25 23 24 23 23 23 23 21 21 22]
+receivedSequenceNumbers = [25 23 24 23 23 23 23 21 21 22]
+receivedSequenceNumbers = [25 23 24 23 23 23 23 21 21 22]
+receivedSequenceNumbers = [25 23 24 23 23 23 23 21 21 22]
+receivedSequenceNumbers = [25 23 24 23 23 23 23 21 21 22]
+Received message 22 from site 7
+Updated receivedSequenceNumbers = [25 23 24 23 23 23 23 22 21 22]
+receivedSequenceNumbers = [25 23 24 23 23 23 23 22 21 22]
+receivedSequenceNumbers = [25 23 24 23 23 23 23 22 21 22]
+receivedSequenceNumbers = [25 23 24 23 23 23 23 22 21 22]
+receivedSequenceNumbers = [25 23 24 23 23 23 23 22 21 22]
+receivedSequenceNumbers = [25 23 24 23 23 23 23 22 21 22]
+receivedSequenceNumbers = [25 23 24 23 23 23 23 22 21 22]
+receivedSequenceNumbers = [25 23 24 23 23 23 23 22 21 22]
+Received message 24 from site 1
+Updated receivedSequenceNumbers = [25 24 24 23 23 23 23 22 21 22]
+receivedSequenceNumbers = [25 24 24 23 23 23 23 22 21 22]
+Received message 22 from site 8
+Updated receivedSequenceNumbers = [25 24 24 23 23 23 23 22 22 22]
+receivedSequenceNumbers = [25 24 24 23 23 23 23 22 22 22]
+receivedSequenceNumbers = [25 24 24 23 23 23 23 22 22 22]
+receivedSequenceNumbers = [25 24 24 23 23 23 23 22 22 22]
+Received message 24 from site 3
+Updated receivedSequenceNumbers = [25 24 24 24 23 23 23 22 22 22]
+receivedSequenceNumbers = [25 24 24 24 23 23 23 22 22 22]
+receivedSequenceNumbers = [25 24 24 24 23 23 23 22 22 22]
+receivedSequenceNumbers = [25 24 24 24 23 23 23 22 22 22]
+receivedSequenceNumbers = [25 24 24 24 23 23 23 22 22 22]
+receivedSequenceNumbers = [25 24 24 24 23 23 23 22 22 22]
+Received message 26 from site 0
+Updated receivedSequenceNumbers = [26 24 24 24 23 23 23 22 22 22]
+receivedSequenceNumbers = [26 24 24 24 23 23 23 22 22 22]
+receivedSequenceNumbers = [26 24 24 24 23 23 23 22 22 22]
+receivedSequenceNumbers = [26 24 24 24 23 23 23 22 22 22]
+receivedSequenceNumbers = [26 24 24 24 23 23 23 22 22 22]
+Received message 24 from site 6
+Updated receivedSequenceNumbers = [26 24 24 24 23 23 24 22 22 22]
+Received token
+Executing critical section
+receivedSequenceNumbers = [26 24 24 24 23 23 24 22 22 22]
+Received message 25 from site 2
+Updated receivedSequenceNumbers = [26 24 25 24 23 23 24 22 22 22]
+receivedSequenceNumbers = [26 24 25 24 23 23 24 22 22 22]
+Received message 24 from site 4
+Updated receivedSequenceNumbers = [26 24 25 24 24 23 24 22 22 22]
+receivedSequenceNumbers = [26 24 25 24 24 23 24 22 22 22]
+receivedSequenceNumbers = [26 24 25 24 24 23 24 22 22 22]
+receivedSequenceNumbers = [26 24 25 24 24 23 24 22 22 22]
+receivedSequenceNumbers = [26 24 25 24 24 23 24 22 22 22]
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [5 7 1 3 8 0 6 2 4]
+Executing non-critical section
+Sending token to site 5
+Token lock released
+receivedSequenceNumbers = [26 24 25 24 24 23 24 22 22 22]
+receivedSequenceNumbers = [26 24 25 24 24 23 24 22 22 22]
+receivedSequenceNumbers = [26 24 25 24 24 23 24 22 22 22]
+receivedSequenceNumbers = [26 24 25 24 24 23 24 22 22 22]
+Received message 24 from site 5
+Updated receivedSequenceNumbers = [26 24 25 24 24 24 24 22 22 22]
+receivedSequenceNumbers = [26 24 25 24 24 24 24 22 22 22]
+receivedSequenceNumbers = [26 24 25 24 24 24 24 22 22 22]
+Requesting critical section
+Sending message 23 to site 0
+Sending message 23 to site 1
+Sending message 23 to site 2
+Sending message 23 to site 3
+Sending message 23 to site 4
+Sending message 23 to site 5
+Sending message 23 to site 6
+Sending message 23 to site 7
+Sending message 23 to site 8
+Waiting for token
+receivedSequenceNumbers = [26 24 25 24 24 24 24 22 22 23]
+receivedSequenceNumbers = [26 24 25 24 24 24 24 22 22 23]
+Received message 23 from site 7
+Updated receivedSequenceNumbers = [26 24 25 24 24 24 24 23 22 23]
+receivedSequenceNumbers = [26 24 25 24 24 24 24 23 22 23]
+receivedSequenceNumbers = [26 24 25 24 24 24 24 23 22 23]
+receivedSequenceNumbers = [26 24 25 24 24 24 24 23 22 23]
+receivedSequenceNumbers = [26 24 25 24 24 24 24 23 22 23]
+receivedSequenceNumbers = [26 24 25 24 24 24 24 23 22 23]
+receivedSequenceNumbers = [26 24 25 24 24 24 24 23 22 23]
+receivedSequenceNumbers = [26 24 25 24 24 24 24 23 22 23]
+Received message 25 from site 3
+Updated receivedSequenceNumbers = [26 24 25 25 24 24 24 23 22 23]
+receivedSequenceNumbers = [26 24 25 25 24 24 24 23 22 23]
+receivedSequenceNumbers = [26 24 25 25 24 24 24 23 22 23]
+Received message 25 from site 1
+Updated receivedSequenceNumbers = [26 25 25 25 24 24 24 23 22 23]
+receivedSequenceNumbers = [26 25 25 25 24 24 24 23 22 23]
+receivedSequenceNumbers = [26 25 25 25 24 24 24 23 22 23]
+receivedSequenceNumbers = [26 25 25 25 24 24 24 23 22 23]
+receivedSequenceNumbers = [26 25 25 25 24 24 24 23 22 23]
+receivedSequenceNumbers = [26 25 25 25 24 24 24 23 22 23]
+receivedSequenceNumbers = [26 25 25 25 24 24 24 23 22 23]
+receivedSequenceNumbers = [26 25 25 25 24 24 24 23 22 23]
+Received message 23 from site 8
+Updated receivedSequenceNumbers = [26 25 25 25 24 24 24 23 23 23]
+receivedSequenceNumbers = [26 25 25 25 24 24 24 23 23 23]
+receivedSequenceNumbers = [26 25 25 25 24 24 24 23 23 23]
+receivedSequenceNumbers = [26 25 25 25 24 24 24 23 23 23]
+receivedSequenceNumbers = [26 25 25 25 24 24 24 23 23 23]
+receivedSequenceNumbers = [26 25 25 25 24 24 24 23 23 23]
+receivedSequenceNumbers = [26 25 25 25 24 24 24 23 23 23]
+receivedSequenceNumbers = [26 25 25 25 24 24 24 23 23 23]
+receivedSequenceNumbers = [26 25 25 25 24 24 24 23 23 23]
+receivedSequenceNumbers = [26 25 25 25 24 24 24 23 23 23]
+receivedSequenceNumbers = [26 25 25 25 24 24 24 23 23 23]
+Received message 27 from site 0
+Updated receivedSequenceNumbers = [27 25 25 25 24 24 24 23 23 23]
+receivedSequenceNumbers = [27 25 25 25 24 24 24 23 23 23]
+Received message 25 from site 6
+Updated receivedSequenceNumbers = [27 25 25 25 24 24 25 23 23 23]
+receivedSequenceNumbers = [27 25 25 25 24 24 25 23 23 23]
+receivedSequenceNumbers = [27 25 25 25 24 24 25 23 23 23]
+receivedSequenceNumbers = [27 25 25 25 24 24 25 23 23 23]
+receivedSequenceNumbers = [27 25 25 25 24 24 25 23 23 23]
+receivedSequenceNumbers = [27 25 25 25 24 24 25 23 23 23]
+receivedSequenceNumbers = [27 25 25 25 24 24 25 23 23 23]
+receivedSequenceNumbers = [27 25 25 25 24 24 25 23 23 23]
+receivedSequenceNumbers = [27 25 25 25 24 24 25 23 23 23]
+receivedSequenceNumbers = [27 25 25 25 24 24 25 23 23 23]
+receivedSequenceNumbers = [27 25 25 25 24 24 25 23 23 23]
+receivedSequenceNumbers = [27 25 25 25 24 24 25 23 23 23]
+receivedSequenceNumbers = [27 25 25 25 24 24 25 23 23 23]
+receivedSequenceNumbers = [27 25 25 25 24 24 25 23 23 23]
+receivedSequenceNumbers = [27 25 25 25 24 24 25 23 23 23]
+Received message 25 from site 4
+Updated receivedSequenceNumbers = [27 25 25 25 25 24 25 23 23 23]
+receivedSequenceNumbers = [27 25 25 25 25 24 25 23 23 23]
+Received token
+Executing critical section
+receivedSequenceNumbers = [27 25 25 25 25 24 25 23 23 23]
+receivedSequenceNumbers = [27 25 25 25 25 24 25 23 23 23]
+receivedSequenceNumbers = [27 25 25 25 25 24 25 23 23 23]
+Received message 26 from site 2
+Updated receivedSequenceNumbers = [27 25 26 25 25 24 25 23 23 23]
+Received message 24 from site 7
+Updated receivedSequenceNumbers = [27 25 26 25 25 24 25 24 23 23]
+receivedSequenceNumbers = [27 25 26 25 25 24 25 24 23 23]
+receivedSequenceNumbers = [27 25 26 25 25 24 25 24 23 23]
+receivedSequenceNumbers = [27 25 26 25 25 24 25 24 23 23]
+Received message 25 from site 5
+Updated receivedSequenceNumbers = [27 25 26 25 25 25 25 24 23 23]
+receivedSequenceNumbers = [27 25 26 25 25 25 25 24 23 23]
+receivedSequenceNumbers = [27 25 26 25 25 25 25 24 23 23]
+receivedSequenceNumbers = [27 25 26 25 25 25 25 24 23 23]
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [1 3 8 0 6 4 2 5 7]
+Executing non-critical section
+Sending token to site 1
+Token lock released
+receivedSequenceNumbers = [27 25 26 25 25 25 25 24 23 23]
+receivedSequenceNumbers = [27 25 26 25 25 25 25 24 23 23]
+receivedSequenceNumbers = [27 25 26 25 25 25 25 24 23 23]
+receivedSequenceNumbers = [27 25 26 25 25 25 25 24 23 23]
+receivedSequenceNumbers = [27 25 26 25 25 25 25 24 23 23]
+Requesting critical section
+Sending message 24 to site 0
+Sending message 24 to site 1
+Sending message 24 to site 2
+Sending message 24 to site 3
+Sending message 24 to site 4
+Sending message 24 to site 5
+Sending message 24 to site 6
+Sending message 24 to site 7
+Sending message 24 to site 8
+Waiting for token
+receivedSequenceNumbers = [27 25 26 25 25 25 25 24 23 24]
+receivedSequenceNumbers = [27 25 26 25 25 25 25 24 23 24]
+receivedSequenceNumbers = [27 25 26 25 25 25 25 24 23 24]
+Received message 26 from site 3
+Updated receivedSequenceNumbers = [27 25 26 26 25 25 25 24 23 24]
+receivedSequenceNumbers = [27 25 26 26 25 25 25 24 23 24]
+Received message 24 from site 8
+Updated receivedSequenceNumbers = [27 25 26 26 25 25 25 24 24 24]
+receivedSequenceNumbers = [27 25 26 26 25 25 25 24 24 24]
+Received message 26 from site 1
+Updated receivedSequenceNumbers = [27 26 26 26 25 25 25 24 24 24]
+receivedSequenceNumbers = [27 26 26 26 25 25 25 24 24 24]
+receivedSequenceNumbers = [27 26 26 26 25 25 25 24 24 24]
+receivedSequenceNumbers = [27 26 26 26 25 25 25 24 24 24]
+receivedSequenceNumbers = [27 26 26 26 25 25 25 24 24 24]
+receivedSequenceNumbers = [27 26 26 26 25 25 25 24 24 24]
+receivedSequenceNumbers = [27 26 26 26 25 25 25 24 24 24]
+receivedSequenceNumbers = [27 26 26 26 25 25 25 24 24 24]
+receivedSequenceNumbers = [27 26 26 26 25 25 25 24 24 24]
+Received message 28 from site 0
+Updated receivedSequenceNumbers = [28 26 26 26 25 25 25 24 24 24]
+receivedSequenceNumbers = [28 26 26 26 25 25 25 24 24 24]
+receivedSequenceNumbers = [28 26 26 26 25 25 25 24 24 24]
+Received message 26 from site 4
+Updated receivedSequenceNumbers = [28 26 26 26 26 25 25 24 24 24]
+Received message 27 from site 2
+Updated receivedSequenceNumbers = [28 26 27 26 26 25 25 24 24 24]
+receivedSequenceNumbers = [28 26 27 26 26 25 25 24 24 24]
+receivedSequenceNumbers = [28 26 27 26 26 25 25 24 24 24]
+receivedSequenceNumbers = [28 26 27 26 26 25 25 24 24 24]
+receivedSequenceNumbers = [28 26 27 26 26 25 25 24 24 24]
+receivedSequenceNumbers = [28 26 27 26 26 25 25 24 24 24]
+receivedSequenceNumbers = [28 26 27 26 26 25 25 24 24 24]
+Received message 26 from site 6
+Updated receivedSequenceNumbers = [28 26 27 26 26 25 26 24 24 24]
+receivedSequenceNumbers = [28 26 27 26 26 25 26 24 24 24]
+receivedSequenceNumbers = [28 26 27 26 26 25 26 24 24 24]
+receivedSequenceNumbers = [28 26 27 26 26 25 26 24 24 24]
+Received token
+Executing critical section
+receivedSequenceNumbers = [28 26 27 26 26 25 26 24 24 24]
+Received message 26 from site 5
+Updated receivedSequenceNumbers = [28 26 27 26 26 26 26 24 24 24]
+Received message 25 from site 7
+Updated receivedSequenceNumbers = [28 26 27 26 26 26 26 25 24 24]
+receivedSequenceNumbers = [28 26 27 26 26 26 26 25 24 24]
+receivedSequenceNumbers = [28 26 27 26 26 26 26 25 24 24]
+receivedSequenceNumbers = [28 26 27 26 26 26 26 25 24 24]
+receivedSequenceNumbers = [28 26 27 26 26 26 26 25 24 24]
+receivedSequenceNumbers = [28 26 27 26 26 26 26 25 24 24]
+receivedSequenceNumbers = [28 26 27 26 26 26 26 25 24 24]
+Releasing critical section
+Completed cycle
+Updated serviceQueue = [3 1 8 0 2 4 6 5 7]
+Executing non-critical section
+Sending token to site 3
+Token lock released
+receivedSequenceNumbers = [28 26 27 26 26 26 26 25 24 24]
+receivedSequenceNumbers = [28 26 27 26 26 26 26 25 24 24]
+receivedSequenceNumbers = [28 26 27 26 26 26 26 25 24 24]
+receivedSequenceNumbers = [28 26 27 26 26 26 26 25 24 24]
+receivedSequenceNumbers = [28 26 27 26 26 26 26 25 24 24]
+receivedSequenceNumbers = [28 26 27 26 26 26 26 25 24 24]
+receivedSequenceNumbers = [28 26 27 26 26 26 26 25 24 24]
+Requesting critical section
+Sending message 25 to site 0
+Sending message 25 to site 1
+Sending message 25 to site 2
+Sending message 25 to site 3
+Sending message 25 to site 4
+Sending message 25 to site 5
+Sending message 25 to site 6
+Sending message 25 to site 7
+Sending message 25 to site 8
+Waiting for token
+receivedSequenceNumbers = [28 26 27 26 26 26 26 25 24 25]
+receivedSequenceNumbers = [28 26 27 26 26 26 26 25 24 25]
+Received message 27 from site 3
+Updated receivedSequenceNumbers = [28 26 27 27 26 26 26 25 24 25]
+receivedSequenceNumbers = [28 26 27 27 26 26 26 25 24 25]
+receivedSequenceNumbers = [28 26 27 27 26 26 26 25 24 25]
+receivedSequenceNumbers = [28 26 27 27 26 26 26 25 24 25]
+receivedSequenceNumbers = [28 26 27 27 26 26 26 25 24 25]
+receivedSequenceNumbers = [28 26 27 27 26 26 26 25 24 25]
+Received message 25 from site 8
+Updated receivedSequenceNumbers = [28 26 27 27 26 26 26 25 25 25]
+receivedSequenceNumbers = [28 26 27 27 26 26 26 25 25 25]
+receivedSequenceNumbers = [28 26 27 27 26 26 26 25 25 25]
+receivedSequenceNumbers = [28 26 27 27 26 26 26 25 25 25]
+receivedSequenceNumbers = [28 26 27 27 26 26 26 25 25 25]
+Received message 27 from site 1
+Updated receivedSequenceNumbers = [28 27 27 27 26 26 26 25 25 25]
+receivedSequenceNumbers = [28 27 27 27 26 26 26 25 25 25]
+receivedSequenceNumbers = [28 27 27 27 26 26 26 25 25 25]
+Received message 29 from site 0
+Updated receivedSequenceNumbers = [29 27 27 27 26 26 26 25 25 25]
+Received message 28 from site 2
+Updated receivedSequenceNumbers = [29 27 28 27 26 26 26 25 25 25]
+receivedSequenceNumbers = [29 27 28 27 26 26 26 25 25 25]
+receivedSequenceNumbers = [29 27 28 27 26 26 26 25 25 25]
+receivedSequenceNumbers = [29 27 28 27 26 26 26 25 25 25]
+receivedSequenceNumbers = [29 27 28 27 26 26 26 25 25 25]
+receivedSequenceNumbers = [29 27 28 27 26 26 26 25 25 25]
+Received message 27 from site 4
+Updated receivedSequenceNumbers = [29 27 28 27 27 26 26 25 25 25]
+receivedSequenceNumbers = [29 27 28 27 27 26 26 25 25 25]
+receivedSequenceNumbers = [29 27 28 27 27 26 26 25 25 25]
+Received message 27 from site 6
+Updated receivedSequenceNumbers = [29 27 28 27 27 26 27 25 25 25]
+receivedSequenceNumbers = [29 27 28 27 27 26 27 25 25 25]
+receivedSequenceNumbers = [29 27 28 27 27 26 27 25 25 25]
